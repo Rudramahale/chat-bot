@@ -1,0 +1,81 @@
+intent,user_message,response
+order_status,Where is my order,Please share your order ID to check the current status.
+order_status,Can you tell me my order status,Sure please provide your order number.
+order_status,Track my order please,Please share your order ID to track the order.
+order_status,My order has not arrived yet,Let me check the delivery status for you.
+order_status,Is my order shipped?,Please provide your order ID to verify shipment status.
+order_status,Mera order kaha tak aya?,Please share your order ID to check the status.
+order_status,Order ka status batao,Sure please provide your order number.
+order_status,Mera order abhi tak nahi mila,Sorry for the delay. Let me check.
+order_status,Order track karna hai,Please share your order ID.
+order_status,Delivery kab hogi?,Please provide your order details.
+order_status,Order status?,Please share your order ID.
+order_status,Order tracking,Please provide your order number.
+order_status,Order delayed,Let me check the reason for delay.
+order_status,Order shipped?,Please share your order ID.
+order_status,kaha hai order,Please provide your order number.
+order_status,order kab ayega,Let me check the estimated delivery.
+order_status,track order,Please share your order ID.
+order_status,delivery status,Please provide your order details.
+order_status,order kaha,Let me check your order status.
+order_status,order update,Please share your order number.
+refund_request,I want a refund,Please share your order ID to initiate the refund.
+refund_request,My refund is still pending,Let me check the refund status.
+refund_request,Refund not received yet,Refunds usually take 5 7 business days.
+refund_request,I received a damaged product,You are eligible for a refund.
+refund_request,Money deducted but order failed,The amount will be refunded shortly.
+refund_request,Paisa wapas kab milega?,Let me check the refund status for you.
+refund_request,Refund abhi tak nahi aya,Sorry for the delay. Let me check.
+refund_request,Payment fail ho gaya but paisa gaya,The amount will be refunded.
+refund_request,Mujhe refund chahiye,Please share your order ID.
+refund_request,Refund ka status batao,Please provide your order details.
+refund_request,Refund?,Please share your order ID.
+refund_request,Money back,Let me check the refund details.
+refund_request,Refund pending,Refund is under process.
+refund_request,Payment issue refund,Please provide your order number.
+refund_request,paisa wapas,Let me verify the refund.
+refund_request,refund kab,Please share your order details.
+refund_request,refund issue,Let me check this for you.
+refund_request,payment deducted,The amount will be refunded.
+refund_request,refund nahi mila,Sorry for the inconvenience.
+refund_request,return refund,Please share your order ID.
+order_cancellation,Cancel my order,Please share your order ID.
+order_cancellation,I want to cancel my order,Let me check if cancellation is possible.
+order_cancellation,Cancel order before delivery,Please provide your order number.
+order_cancellation,I ordered by mistake,No problem please share order ID.
+order_cancellation,Stop my order,Let me help you cancel it.
+order_cancellation,Mera order cancel karna hai,Please share your order ID.
+order_cancellation,Order cancel kar do,Sure please provide order details.
+order_cancellation,Galti se order ho gaya,Let me check cancellation eligibility.
+order_cancellation,Cancel karna hai order,Please share your order number.
+order_cancellation,Order cancel possible hai?,Let me check shipment status.
+order_cancellation,Cancel order,Please provide your order ID.
+order_cancellation,Order cancel now,Let me check eligibility.
+order_cancellation,Cancel purchase,Please share your order details.
+order_cancellation,Cancel request,Order ID required.
+order_cancellation,order cancel,Please provide order number.
+order_cancellation,cancel kar do,Let me check.
+order_cancellation,order rok do,Please share your order ID.
+order_cancellation,cancel asap,Checking cancellation possibility.
+order_cancellation,order mistake,Please provide order details.
+order_cancellation,cancel delivery,Let me verify shipment status.
+technical_issue,App is not working,Please restart the app or update it.
+technical_issue,Website keeps crashing,Our technical team is working on it.
+technical_issue,I can’t log in,Please reset your password.
+technical_issue,Payment failed error,Please try again after some time.
+technical_issue,App is very slow,Please check your internet connection.
+technical_issue,App kaam nahi kar raha,Please try restarting the app.
+technical_issue,Login nahi ho raha,Please reset your password.
+technical_issue,Payment issue aa raha hai,Please try again.
+technical_issue,App crash ho raha hai,Please reinstall the app.
+technical_issue,Website open nahi ho rahi,Please check your network.
+technical_issue,Login issue,Please try again.
+technical_issue,App error,Please share error details.
+technical_issue,Payment stuck,Please wait or retry.
+technical_issue,Page not loading,Please refresh.
+technical_issue,app slow,Check internet connection.
+technical_issue,login problem,Reset password.
+technical_issue,payment error,Try again later.
+technical_issue,technical problem,Our team is checking.
+technical_issue,system issue,Please wait.
+technical_issue,app issue,Please restart the app.
