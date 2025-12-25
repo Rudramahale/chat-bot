@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const userId = "user_" + Math.random().toString(36).substr(2, 9);
 
     // API Endpoint
-    const API_URL = "http://127.0.0.1:8000/chat";
+    const API_URL = "https://chat-bot-final-57qr.onrender.com/chat";
 
     function appendMessage(text, isUser = false) {
         const messageDiv = document.createElement('div');
