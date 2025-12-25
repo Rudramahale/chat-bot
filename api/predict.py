@@ -26,5 +26,3 @@ def predict_intent(user_message):
     intent = id_to_intent[intent_id]
 
     return intent, confidence
-
-print(predict_intent("ye work nahi ho raha"))
