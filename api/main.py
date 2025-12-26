@@ -1,10 +1,10 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
-from api.predict import predict_intent
+from api.predict import predict_intent, load_model
+from api.conversation_manager import ConversationManager
 import json
 import os
-
 
 app = FastAPI(
     title="Customer Support Chatbot API",
@@ -20,17 +20,20 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-CONFIDENCE_THRESHOLD = 0.2
+CONFIDENCE_THRESHOLD = 0.6
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RESPONSES_PATH = os.path.join(BASE_DIR, "api", "responses.json")
 
-with open(RESPONSES_PATH, "r", encoding="utf-8") as f:
-    RESPONSES = json.load(f)
+# Load responses
+if os.path.exists(RESPONSES_PATH):
+    with open(RESPONSES_PATH, "r", encoding="utf-8") as f:
+        RESPONSES = json.load(f)
+else:
+    RESPONSES = {}
 
-
-session_state = {}
-
+# Initialize ConversationManager
+conversation_manager = ConversationManager(RESPONSES)
 
 class ChatRequest(BaseModel):
     user_id: str
@@ -42,6 +45,14 @@ class ChatResponse(BaseModel):
     confidence: float
     reply: str
 
+@app.on_event("startup")
+def startup_event():
+    print("Startup: Loading models...")
+    try:
+        load_model()
+        print("Startup: Models loaded.")
+    except Exception as e:
+        print(f"Startup Error: {e}")
 
 @app.post("/chat", response_model=ChatResponse)
 def chat(req: ChatRequest):
@@ -49,78 +60,26 @@ def chat(req: ChatRequest):
     user_id = req.user_id
     message = req.message.strip().lower()
 
+    # Get current state
+    state = conversation_manager.get_state(user_id)
 
-    if user_id not in session_state:
-        session_state[user_id] = {
-            "awaiting": None,
-            "intent": None
-        }
+    # Determine intent
+    if state["awaiting"]:
+        # If awaiting input, we don't need to predict intent for this turn
+        intent = None
+        confidence = 0.0
+    else:
+        # Predict intent
+        intent, confidence = predict_intent(message)
+        
+        if confidence < CONFIDENCE_THRESHOLD:
+            intent = "unknown"
 
-
-    if session_state[user_id]["awaiting"] == "order_id":
-        order_id = message
-
-        intent = session_state[user_id]["intent"]
-
-        session_state[user_id] = {
-            "awaiting": None,
-            "intent": None
-        }
-
-     
-        if intent == "order_status":
-            reply = f"Your order {order_id} is currently being processed and will be delivered soon."
-        elif intent == "refund_request":
-            reply = f"Refund for order {order_id} has been initiated. You will receive it in 3–5 business days."
-        elif intent == "order_cancellation":
-            reply = f"Your order {order_id} has been successfully cancelled."
-        else:
-            reply = "Thanks for the details. Our team will get back to you."
-
-        return ChatResponse(
-            intent=intent,
-            confidence=1.0,
-            reply=reply
-        )
-
-
-    intent, confidence = predict_intent(message)
-
-
-    if confidence < CONFIDENCE_THRESHOLD:
-        return ChatResponse(
-            intent="unknown",
-            confidence=confidence,
-            reply="Sorry, I couldn’t understand your request. Could you please rephrase?"
-        )
-
-
-    if intent in ["order_status", "refund_request", "order_cancellation"]:
-        session_state[user_id]["awaiting"] = "order_id"
-        session_state[user_id]["intent"] = intent
-
-        return ChatResponse(
-            intent=intent,
-            confidence=confidence,
-            reply="Please share your order ID to proceed."
-        )
-
-    if intent == "technical_issue":
-        return ChatResponse(
-            intent=intent,
-            confidence=confidence,
-            reply="Please describe the technical issue you are facing."
-        )
-
-    if intent == "billing":
-        return ChatResponse(
-            intent=intent,
-            confidence=confidence,
-            reply=RESPONSES.get(intent, "For billing issues, please contact support.")
-        )
+    # Delegate flow handling to manager
+    response_data = conversation_manager.handle_flow(user_id, message, intent, confidence)
 
     return ChatResponse(
-        intent=intent,
-        confidence=confidence,
-        reply=RESPONSES.get(intent, "How can I assist you today?")
+        intent=response_data["intent"],
+        confidence=response_data["confidence"],
+        reply=response_data["reply"]
     )
