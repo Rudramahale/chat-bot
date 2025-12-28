@@ -1,10 +1,15 @@
 {
     "order_status": "Sure, I can help you with your order status. Please share your order ID.",
+    "ordered": "Your order has been successfully placed and is currently being processed. We will notify you once it is shipped.",
+    "shipped": "Your order has been shipped and is on the way. It will be delivered within the estimated timeframe.",
+    "delivered": "Your order has been delivered successfully. We hope you are satisfied with your purchase.",
+    "canceled": "Your order has been canceled as requested. If you need any further assistance, please let us know.",
     "refund_request": "I can help you with the refund. Please provide your order ID to proceed.",
     "order_cancellation": "I can assist with order cancellation. Kindly share your order ID.",
     "technical_issue": "I’m sorry you’re facing technical issues. Please describe the problem in detail.",
     "billing": "For billing-related queries, please share more details so I can assist you better.",
     "greeting": "Hello! How can I help you today?",
     "goodbye": "Thank you for contacting support. Have a great day!",
-    "unknown": "Sorry, I couldn’t understand your request. Could you please rephrase?"
+    "unknown": "Sorry, I couldn’t understand your request. Could you please rephrase?",
+    "order_id_not_found": "No order was found with the provided Order ID. Please try again."
 }
