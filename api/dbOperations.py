@@ -19,13 +19,13 @@ def get_id(id):
     cursor.execute("select * from orders where order_id = %s",(id,))
     result = cursor.fetchone()
     if result:
-        return result
+        return True
     else:
-        return None
+        return False
 
-def get_status(id):
-    cursor.execute("select order_status from orders where order_id = %s",(id,))
-    result = cursor.fetchone()
+def get_details(id):
+    cursor.execute("select * from orders where order_id = %s",(id,))
+    result = cursor.fetchall()
     if result:
         return result
     else:

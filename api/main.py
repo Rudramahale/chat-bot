@@ -1,9 +1,10 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from api.predict import predict_intent, load_model
+from api.chat import start_chat
+from api.session import create_session, session
 from pydantic import BaseModel
-import json
-import os
+
 
 app = FastAPI()
 
@@ -14,12 +15,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RESPONSES_PATH = os.path.join(BASE_DIR, "api", "responses.json")
-
-with open(RESPONSES_PATH, "r", encoding="utf-8") as f:
-    RESPONSES = json.load(f)
 
 class ChatRequest(BaseModel):
     message: str
@@ -34,14 +29,25 @@ class ChatResponse(BaseModel):
 def startup_event():
     load_model()
 
+
 @app.post("/chat", response_model=ChatResponse)
 def chat(request: ChatRequest):
-    intent, confidence = predict_intent(request.message)
-    
-    reply = RESPONSES.get(intent, RESPONSES["unknown"])
+    intent = None
+    confidence = None
+ 
+    if request.session_id not in session:
+        intent, confidence = predict_intent(request.message)
+        create_session(request.session_id, intent,request.message)
+    else:
+        intent = session[request.session_id]["intent"]
+        session[request.session_id]["message"] = request.message
+        confidence = 1.0
+
+    reply = start_chat(request.session_id,intent)
     
     return ChatResponse(
         intent=intent,
         confidence=confidence,
         reply=reply
     )
+

@@ -5,6 +5,8 @@
     "delivered": "Your order has been delivered successfully. We hope you are satisfied with your purchase.",
     "canceled": "Your order has been canceled as requested. If you need any further assistance, please let us know.",
     "refund_request": "I can help you with the refund. Please provide your order ID to proceed.",
+    "refund_reconformation": "Your order has been {order_status}, you still want to cancel order",
+    "NO_refund": "Your order has be delivered successfully, refund can't be initialized",
     "order_cancellation": "I can assist with order cancellation. Kindly share your order ID.",
     "technical_issue": "I’m sorry you’re facing technical issues. Please describe the problem in detail.",
     "billing": "For billing-related queries, please share more details so I can assist you better.",
