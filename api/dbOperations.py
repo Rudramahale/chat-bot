@@ -31,3 +31,17 @@ def get_details(id):
     else:
         return None
 
+def update_refund_status(id):
+    try:
+        cursor.execute("update orders set order_status = 'CANCELLED' where order_id = %s",(id,))
+        cursor.execute("update orders set payment_status = 'REFUND_INITIATED' where order_id = %s",(id,))
+        conn.commit()
+        return True
+    except Exception as e:
+        print(f"Error updating refund status: {e}")
+        return False
+
+cursor.execute("update orders set order_status = 'SHIPPED' where order_id = 2")
+cursor.execute("update orders set payment_status = 'NONE' where order_id = 2")
+conn.commit()
+

@@ -43,4 +43,7 @@ def predict_intent(user_message):
     intent = id_to_intent[intent_id]
     
     return intent, confidence
+
+load_model()
+print(predict_intent("yes"))
     

@@ -35,7 +35,7 @@ def chat(request: ChatRequest):
     intent = None
     confidence = None
  
-    if request.session_id not in session:
+    if request.session_id not in session or session[request.session_id]["status"] == "idle":
         intent, confidence = predict_intent(request.message)
         create_session(request.session_id, intent,request.message)
     else:
