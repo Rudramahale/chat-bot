@@ -41,7 +41,31 @@ def update_refund_status(id):
         print(f"Error updating refund status: {e}")
         return False
 
-cursor.execute("update orders set order_status = 'SHIPPED' where order_id = 2")
-cursor.execute("update orders set payment_status = 'NONE' where order_id = 2")
-conn.commit()
+def update_cancel_order(order_id):
+    try:
+        cursor.execute("SELECT payment_mode FROM orders WHERE order_id = %s",(order_id,))
+        result = cursor.fetchone()
 
+        if not result:
+            return False
+
+    
+        payment_mode = result["payment_mode"]
+        cursor.execute("UPDATE orders SET order_status = 'CANCELLED' WHERE order_id = %s",(order_id,))
+
+        if payment_mode != "COD":
+            cursor.execute("UPDATE orders SET payment_status = 'REFUND_INITIATED' WHERE order_id = %s",(order_id,))
+
+        conn.commit()
+        return True
+    except Exception as e:
+        conn.rollback()
+        print(f"Error updating cancel order status: {e}")
+        return False
+
+
+# cursor.execute("update orders set order_status = 'SHIPPED' where order_id = 2")
+# cursor.execute("update orders set payment_status = 'NONE' where order_id = 2")
+# conn.commit()
+
+# print(update_cancel_order(2))
