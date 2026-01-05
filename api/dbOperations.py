@@ -1,10 +1,11 @@
 import pymysql
-
+#mysql://root:khMShjIYWshzGvsOcwvQIpmcJJxsYUtU@shortline.proxy.rlwy.net:17599/railway
 conn = pymysql.connect(
-    host="localhost",
+    host="shortline.proxy.rlwy.net",
     user="root",
-    password="1436",
-    database="online_shop",
+    password="khMShjIYWshzGvsOcwvQIpmcJJxsYUtU",
+    database="railway",
+    port=17599,
     cursorclass=pymysql.cursors.DictCursor
 )
 
