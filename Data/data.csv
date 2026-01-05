@@ -1,0 +1,4165 @@
+intent,user_message
+order_status,Where is my order 1
+order_status,Track my order 2
+order_status,Order status 3
+order_status,Order delivery update 4
+order_status,My order is delayed 5
+order_status,Order kab ayega 6
+order_status,Order kaha hai 7
+order_status,Delivery status 8
+order_status,Where is my order 9
+order_status,Track my order 10
+order_status,Order status 11
+order_status,Order delivery update 12
+order_status,My order is delayed 13
+order_status,Order kab ayega 14
+order_status,Order kaha hai 15
+order_status,Delivery status 16
+order_status,Where is my order 17
+order_status,Track my order 18
+order_status,Order status 19
+order_status,Order delivery update 20
+order_status,My order is delayed 21
+order_status,Order kab ayega 22
+order_status,Order kaha hai 23
+order_status,Delivery status 24
+order_status,Where is my order 25
+order_status,Track my order 26
+order_status,Order status 27
+order_status,Order delivery update 28
+order_status,My order is delayed 29
+order_status,Order kab ayega 30
+order_status,Order kaha hai 31
+order_status,Delivery status 32
+order_status,Where is my order 33
+order_status,Track my order 34
+order_status,Order status 35
+order_status,Order delivery update 36
+order_status,My order is delayed 37
+order_status,Order kab ayega 38
+order_status,Order kaha hai 39
+order_status,Delivery status 40
+order_status,Where is my order 41
+order_status,Track my order 42
+order_status,Order status 43
+order_status,Order delivery update 44
+order_status,My order is delayed 45
+order_status,Order kab ayega 46
+order_status,Order kaha hai 47
+order_status,Delivery status 48
+order_status,Where is my order 49
+order_status,Track my order 50
+order_status,Order status 51
+order_status,Order delivery update 52
+order_status,My order is delayed 53
+order_status,Order kab ayega 54
+order_status,Order kaha hai 55
+order_status,Delivery status 56
+order_status,Where is my order 57
+order_status,Track my order 58
+order_status,Order status 59
+order_status,Order delivery update 60
+order_status,My order is delayed 61
+order_status,Order kab ayega 62
+order_status,Order kaha hai 63
+order_status,Delivery status 64
+order_status,Where is my order 65
+order_status,Track my order 66
+order_status,Order status 67
+order_status,Order delivery update 68
+order_status,My order is delayed 69
+order_status,Order kab ayega 70
+order_status,Order kaha hai 71
+order_status,Delivery status 72
+order_status,Where is my order 73
+order_status,Track my order 74
+order_status,Order status 75
+order_status,Order delivery update 76
+order_status,My order is delayed 77
+order_status,Order kab ayega 78
+order_status,Order kaha hai 79
+order_status,Delivery status 80
+order_status,Where is my order 81
+order_status,Track my order 82
+order_status,Order status 83
+order_status,Order delivery update 84
+order_status,My order is delayed 85
+order_status,Order kab ayega 86
+order_status,Order kaha hai 87
+order_status,Delivery status 88
+order_status,Where is my order 89
+order_status,Track my order 90
+order_status,Order status 91
+order_status,Order delivery update 92
+order_status,My order is delayed 93
+order_status,Order kab ayega 94
+order_status,Order kaha hai 95
+order_status,Delivery status 96
+order_status,Where is my order 97
+order_status,Track my order 98
+order_status,Order status 99
+order_status,Order delivery update 100
+order_status,My order is delayed 101
+order_status,Order kab ayega 102
+order_status,Order kaha hai 103
+order_status,Delivery status 104
+order_status,Where is my order 105
+order_status,Track my order 106
+order_status,Order status 107
+order_status,Order delivery update 108
+order_status,My order is delayed 109
+order_status,Order kab ayega 110
+order_status,Order kaha hai 111
+order_status,Delivery status 112
+order_status,Where is my order 113
+order_status,Track my order 114
+order_status,Order status 115
+order_status,Order delivery update 116
+order_status,My order is delayed 117
+order_status,Order kab ayega 118
+order_status,Order kaha hai 119
+order_status,Delivery status 120
+order_status,Where is my order 121
+order_status,Track my order 122
+order_status,Order status 123
+order_status,Order delivery update 124
+order_status,My order is delayed 125
+order_status,Order kab ayega 126
+order_status,Order kaha hai 127
+order_status,Delivery status 128
+order_status,Where is my order 129
+order_status,Track my order 130
+order_status,Order status 131
+order_status,Order delivery update 132
+order_status,My order is delayed 133
+order_status,Order kab ayega 134
+order_status,Order kaha hai 135
+order_status,Delivery status 136
+order_status,Where is my order 137
+order_status,Track my order 138
+order_status,Order status 139
+order_status,Order delivery update 140
+order_status,My order is delayed 141
+order_status,Order kab ayega 142
+order_status,Order kaha hai 143
+order_status,Delivery status 144
+order_status,Where is my order 145
+order_status,Track my order 146
+order_status,Order status 147
+order_status,Order delivery update 148
+order_status,My order is delayed 149
+order_status,Order kab ayega 150
+order_status,Order kaha hai 151
+order_status,Delivery status 152
+order_status,Where is my order 153
+order_status,Track my order 154
+order_status,Order status 155
+order_status,Order delivery update 156
+order_status,My order is delayed 157
+order_status,Order kab ayega 158
+order_status,Order kaha hai 159
+order_status,Delivery status 160
+order_status,Where is my order 161
+order_status,Track my order 162
+order_status,Order status 163
+order_status,Order delivery update 164
+order_status,My order is delayed 165
+order_status,Order kab ayega 166
+order_status,Order kaha hai 167
+order_status,Delivery status 168
+order_status,Where is my order 169
+order_status,Track my order 170
+order_status,Order status 171
+order_status,Order delivery update 172
+order_status,My order is delayed 173
+order_status,Order kab ayega 174
+order_status,Order kaha hai 175
+order_status,Delivery status 176
+order_status,Where is my order 177
+order_status,Track my order 178
+order_status,Order status 179
+order_status,Order delivery update 180
+order_status,My order is delayed 181
+order_status,Order kab ayega 182
+order_status,Order kaha hai 183
+order_status,Delivery status 184
+order_status,Where is my order 185
+order_status,Track my order 186
+order_status,Order status 187
+order_status,Order delivery update 188
+order_status,My order is delayed 189
+order_status,Order kab ayega 190
+order_status,Order kaha hai 191
+order_status,Delivery status 192
+order_status,Where is my order 193
+order_status,Track my order 194
+order_status,Order status 195
+order_status,Order delivery update 196
+order_status,My order is delayed 197
+order_status,Order kab ayega 198
+order_status,Order kaha hai 199
+order_status,Delivery status 200
+order_status,Where is my order 201
+order_status,Track my order 202
+order_status,Order status 203
+order_status,Order delivery update 204
+order_status,My order is delayed 205
+order_status,Order kab ayega 206
+order_status,Order kaha hai 207
+order_status,Delivery status 208
+order_status,Where is my order 209
+order_status,Track my order 210
+order_status,Order status 211
+order_status,Order delivery update 212
+order_status,My order is delayed 213
+order_status,Order kab ayega 214
+order_status,Order kaha hai 215
+order_status,Delivery status 216
+order_status,Where is my order 217
+order_status,Track my order 218
+order_status,Order status 219
+order_status,Order delivery update 220
+order_status,My order is delayed 221
+order_status,Order kab ayega 222
+order_status,Order kaha hai 223
+order_status,Delivery status 224
+order_status,Where is my order 225
+order_status,Track my order 226
+order_status,Order status 227
+order_status,Order delivery update 228
+order_status,My order is delayed 229
+order_status,Order kab ayega 230
+order_status,Order kaha hai 231
+order_status,Delivery status 232
+order_status,Where is my order 233
+order_status,Track my order 234
+order_status,Order status 235
+order_status,Order delivery update 236
+order_status,My order is delayed 237
+order_status,Order kab ayega 238
+order_status,Order kaha hai 239
+order_status,Delivery status 240
+order_status,Where is my order 241
+order_status,Track my order 242
+order_status,Order status 243
+order_status,Order delivery update 244
+order_status,My order is delayed 245
+order_status,Order kab ayega 246
+order_status,Order kaha hai 247
+order_status,Delivery status 248
+order_status,Where is my order 249
+order_status,Track my order 250
+order_status,Order status 251
+order_status,Order delivery update 252
+order_status,My order is delayed 253
+order_status,Order kab ayega 254
+order_status,Order kaha hai 255
+order_status,Delivery status 256
+order_status,Where is my order 257
+order_status,Track my order 258
+order_status,Order status 259
+order_status,Order delivery update 260
+order_status,My order is delayed 261
+order_status,Order kab ayega 262
+order_status,Order kaha hai 263
+order_status,Delivery status 264
+order_status,Where is my order 265
+order_status,Track my order 266
+order_status,Order status 267
+order_status,Order delivery update 268
+order_status,My order is delayed 269
+order_status,Order kab ayega 270
+order_status,Order kaha hai 271
+order_status,Delivery status 272
+order_status,Where is my order 273
+order_status,Track my order 274
+order_status,Order status 275
+order_status,Order delivery update 276
+order_status,My order is delayed 277
+order_status,Order kab ayega 278
+order_status,Order kaha hai 279
+order_status,Delivery status 280
+order_status,Where is my order 281
+order_status,Track my order 282
+order_status,Order status 283
+order_status,Order delivery update 284
+order_status,My order is delayed 285
+order_status,Order kab ayega 286
+order_status,Order kaha hai 287
+order_status,Delivery status 288
+order_status,Where is my order 289
+order_status,Track my order 290
+order_status,Order status 291
+order_status,Order delivery update 292
+order_status,My order is delayed 293
+order_status,Order kab ayega 294
+order_status,Order kaha hai 295
+order_status,Delivery status 296
+order_status,Where is my order 297
+order_status,Track my order 298
+order_status,Order status 299
+order_status,Order delivery update 300
+order_status,My order is delayed 301
+order_status,Order kab ayega 302
+order_status,Order kaha hai 303
+order_status,Delivery status 304
+order_status,Where is my order 305
+order_status,Track my order 306
+order_status,Order status 307
+order_status,Order delivery update 308
+order_status,My order is delayed 309
+order_status,Order kab ayega 310
+order_status,Order kaha hai 311
+order_status,Delivery status 312
+order_status,Where is my order 313
+order_status,Track my order 314
+order_status,Order status 315
+order_status,Order delivery update 316
+order_status,My order is delayed 317
+order_status,Order kab ayega 318
+order_status,Order kaha hai 319
+order_status,Delivery status 320
+order_status,Where is my order 321
+order_status,Track my order 322
+order_status,Order status 323
+order_status,Order delivery update 324
+order_status,My order is delayed 325
+order_status,Order kab ayega 326
+order_status,Order kaha hai 327
+order_status,Delivery status 328
+order_status,Where is my order 329
+order_status,Track my order 330
+order_status,Order status 331
+order_status,Order delivery update 332
+order_status,My order is delayed 333
+order_status,Order kab ayega 334
+order_status,Order kaha hai 335
+order_status,Delivery status 336
+order_status,Where is my order 337
+order_status,Track my order 338
+order_status,Order status 339
+order_status,Order delivery update 340
+order_status,My order is delayed 341
+order_status,Order kab ayega 342
+order_status,Order kaha hai 343
+order_status,Delivery status 344
+order_status,Where is my order 345
+order_status,Track my order 346
+order_status,Order status 347
+order_status,Order delivery update 348
+order_status,My order is delayed 349
+order_status,Order kab ayega 350
+order_status,Order kaha hai 351
+order_status,Delivery status 352
+order_status,Where is my order 353
+order_status,Track my order 354
+order_status,Order status 355
+order_status,Order delivery update 356
+order_status,My order is delayed 357
+order_status,Order kab ayega 358
+order_status,Order kaha hai 359
+order_status,Delivery status 360
+order_status,Where is my order 361
+order_status,Track my order 362
+order_status,Order status 363
+order_status,Order delivery update 364
+order_status,My order is delayed 365
+order_status,Order kab ayega 366
+order_status,Order kaha hai 367
+order_status,Delivery status 368
+order_status,Where is my order 369
+order_status,Track my order 370
+order_status,Order status 371
+order_status,Order delivery update 372
+order_status,My order is delayed 373
+order_status,Order kab ayega 374
+order_status,Order kaha hai 375
+order_status,Delivery status 376
+order_status,Where is my order 377
+order_status,Track my order 378
+order_status,Order status 379
+order_status,Order delivery update 380
+order_status,My order is delayed 381
+order_status,Order kab ayega 382
+order_status,Order kaha hai 383
+order_status,Delivery status 384
+order_status,Where is my order 385
+order_status,Track my order 386
+order_status,Order status 387
+order_status,Order delivery update 388
+order_status,My order is delayed 389
+order_status,Order kab ayega 390
+order_status,Order kaha hai 391
+order_status,Delivery status 392
+order_status,Where is my order 393
+order_status,Track my order 394
+order_status,Order status 395
+order_status,Order delivery update 396
+order_status,My order is delayed 397
+order_status,Order kab ayega 398
+order_status,Order kaha hai 399
+order_status,Delivery status 400
+order_status,Where is my order 401
+order_status,Track my order 402
+order_status,Order status 403
+order_status,Order delivery update 404
+order_status,My order is delayed 405
+order_status,Order kab ayega 406
+order_status,Order kaha hai 407
+order_status,Delivery status 408
+order_status,Where is my order 409
+order_status,Track my order 410
+order_status,Order status 411
+order_status,Order delivery update 412
+order_status,My order is delayed 413
+order_status,Order kab ayega 414
+order_status,Order kaha hai 415
+order_status,Delivery status 416
+order_status,Where is my order 417
+order_status,Track my order 418
+order_status,Order status 419
+order_status,Order delivery update 420
+order_status,My order is delayed 421
+order_status,Order kab ayega 422
+order_status,Order kaha hai 423
+order_status,Delivery status 424
+order_status,Where is my order 425
+order_status,Track my order 426
+order_status,Order status 427
+order_status,Order delivery update 428
+order_status,My order is delayed 429
+order_status,Order kab ayega 430
+order_status,Order kaha hai 431
+order_status,Delivery status 432
+order_status,Where is my order 433
+order_status,Track my order 434
+order_status,Order status 435
+order_status,Order delivery update 436
+order_status,My order is delayed 437
+order_status,Order kab ayega 438
+order_status,Order kaha hai 439
+order_status,Delivery status 440
+order_status,Where is my order 441
+order_status,Track my order 442
+order_status,Order status 443
+order_status,Order delivery update 444
+order_status,My order is delayed 445
+order_status,Order kab ayega 446
+order_status,Order kaha hai 447
+order_status,Delivery status 448
+order_status,Where is my order 449
+order_status,Track my order 450
+order_status,Order status 451
+order_status,Order delivery update 452
+order_status,My order is delayed 453
+order_status,Order kab ayega 454
+order_status,Order kaha hai 455
+order_status,Delivery status 456
+order_status,Where is my order 457
+order_status,Track my order 458
+order_status,Order status 459
+order_status,Order delivery update 460
+order_status,My order is delayed 461
+order_status,Order kab ayega 462
+order_status,Order kaha hai 463
+order_status,Delivery status 464
+order_status,Where is my order 465
+order_status,Track my order 466
+order_status,Order status 467
+order_status,Order delivery update 468
+order_status,My order is delayed 469
+order_status,Order kab ayega 470
+order_status,Order kaha hai 471
+order_status,Delivery status 472
+order_status,Where is my order 473
+order_status,Track my order 474
+order_status,Order status 475
+order_status,Order delivery update 476
+order_status,My order is delayed 477
+order_status,Order kab ayega 478
+order_status,Order kaha hai 479
+order_status,Delivery status 480
+order_status,Where is my order 481
+order_status,Track my order 482
+order_status,Order status 483
+order_status,Order delivery update 484
+order_status,My order is delayed 485
+order_status,Order kab ayega 486
+order_status,Order kaha hai 487
+order_status,Delivery status 488
+order_status,Where is my order 489
+order_status,Track my order 490
+order_status,Order status 491
+order_status,Order delivery update 492
+order_status,My order is delayed 493
+order_status,Order kab ayega 494
+order_status,Order kaha hai 495
+order_status,Delivery status 496
+order_status,Where is my order 497
+order_status,Track my order 498
+order_status,Order status 499
+order_status,Order delivery update 500
+order_status,My order is delayed 501
+order_status,Order kab ayega 502
+order_status,Order kaha hai 503
+order_status,Delivery status 504
+order_status,Where is my order 505
+order_status,Track my order 506
+order_status,Order status 507
+order_status,Order delivery update 508
+order_status,My order is delayed 509
+order_status,Order kab ayega 510
+order_status,Order kaha hai 511
+order_status,Delivery status 512
+order_status,Where is my order 513
+order_status,Track my order 514
+order_status,Order status 515
+order_status,Order delivery update 516
+order_status,My order is delayed 517
+order_status,Order kab ayega 518
+order_status,Order kaha hai 519
+order_status,Delivery status 520
+order_status,Where is my order 521
+order_status,Track my order 522
+order_status,Order status 523
+order_status,Order delivery update 524
+order_status,My order is delayed 525
+order_status,Order kab ayega 526
+order_status,Order kaha hai 527
+order_status,Delivery status 528
+order_status,Where is my order 529
+order_status,Track my order 530
+order_status,Order status 531
+order_status,Order delivery update 532
+order_status,My order is delayed 533
+order_status,Order kab ayega 534
+order_status,Order kaha hai 535
+order_status,Delivery status 536
+order_status,Where is my order 537
+order_status,Track my order 538
+order_status,Order status 539
+order_status,Order delivery update 540
+order_status,My order is delayed 541
+order_status,Order kab ayega 542
+order_status,Order kaha hai 543
+order_status,Delivery status 544
+order_status,Where is my order 545
+order_status,Track my order 546
+order_status,Order status 547
+order_status,Order delivery update 548
+order_status,My order is delayed 549
+order_status,Order kab ayega 550
+order_status,Order kaha hai 551
+order_status,Delivery status 552
+order_status,Where is my order 553
+order_status,Track my order 554
+order_status,Order status 555
+order_status,Order delivery update 556
+order_status,My order is delayed 557
+order_status,Order kab ayega 558
+order_status,Order kaha hai 559
+order_status,Delivery status 560
+order_status,Where is my order 561
+order_status,Track my order 562
+order_status,Order status 563
+order_status,Order delivery update 564
+order_status,My order is delayed 565
+order_status,Order kab ayega 566
+order_status,Order kaha hai 567
+order_status,Delivery status 568
+order_status,Where is my order 569
+order_status,Track my order 570
+order_status,Order status 571
+order_status,Order delivery update 572
+order_status,My order is delayed 573
+order_status,Order kab ayega 574
+order_status,Order kaha hai 575
+order_status,Delivery status 576
+order_status,Where is my order 577
+order_status,Track my order 578
+order_status,Order status 579
+order_status,Order delivery update 580
+order_status,My order is delayed 581
+order_status,Order kab ayega 582
+order_status,Order kaha hai 583
+order_status,Delivery status 584
+order_status,Where is my order 585
+order_status,Track my order 586
+order_status,Order status 587
+order_status,Order delivery update 588
+order_status,My order is delayed 589
+order_status,Order kab ayega 590
+order_status,Order kaha hai 591
+order_status,Delivery status 592
+order_status,Where is my order 593
+order_status,Track my order 594
+order_status,Order status 595
+order_status,Order delivery update 596
+order_status,My order is delayed 597
+order_status,Order kab ayega 598
+order_status,Order kaha hai 599
+order_status,Delivery status 600
+order_status,Where is my order 601
+order_status,Track my order 602
+order_status,Order status 603
+order_status,Order delivery update 604
+order_status,My order is delayed 605
+order_status,Order kab ayega 606
+order_status,Order kaha hai 607
+order_status,Delivery status 608
+order_status,Where is my order 609
+order_status,Track my order 610
+order_status,Order status 611
+order_status,Order delivery update 612
+order_status,My order is delayed 613
+order_status,Order kab ayega 614
+order_status,Order kaha hai 615
+order_status,Delivery status 616
+order_status,Where is my order 617
+order_status,Track my order 618
+order_status,Order status 619
+order_status,Order delivery update 620
+order_status,My order is delayed 621
+order_status,Order kab ayega 622
+order_status,Order kaha hai 623
+order_status,Delivery status 624
+order_status,Where is my order 625
+order_status,Track my order 626
+order_status,Order status 627
+order_status,Order delivery update 628
+order_status,My order is delayed 629
+order_status,Order kab ayega 630
+order_status,Order kaha hai 631
+order_status,Delivery status 632
+order_status,Where is my order 633
+order_status,Track my order 634
+order_status,Order status 635
+order_status,Order delivery update 636
+order_status,My order is delayed 637
+order_status,Order kab ayega 638
+order_status,Order kaha hai 639
+order_status,Delivery status 640
+order_status,Where is my order 641
+order_status,Track my order 642
+order_status,Order status 643
+order_status,Order delivery update 644
+order_status,My order is delayed 645
+order_status,Order kab ayega 646
+order_status,Order kaha hai 647
+order_status,Delivery status 648
+order_status,Where is my order 649
+order_status,Track my order 650
+order_status,Order status 651
+order_status,Order delivery update 652
+order_status,My order is delayed 653
+order_status,Order kab ayega 654
+order_status,Order kaha hai 655
+order_status,Delivery status 656
+order_status,Where is my order 657
+order_status,Track my order 658
+order_status,Order status 659
+order_status,Order delivery update 660
+order_status,My order is delayed 661
+order_status,Order kab ayega 662
+order_status,Order kaha hai 663
+order_status,Delivery status 664
+order_status,Where is my order 665
+order_status,Track my order 666
+order_status,Order status 667
+order_status,Order delivery update 668
+order_status,My order is delayed 669
+order_status,Order kab ayega 670
+order_status,Order kaha hai 671
+order_status,Delivery status 672
+order_status,Where is my order 673
+order_status,Track my order 674
+order_status,Order status 675
+order_status,Order delivery update 676
+order_status,My order is delayed 677
+order_status,Order kab ayega 678
+order_status,Order kaha hai 679
+order_status,Delivery status 680
+order_status,Where is my order 681
+order_status,Track my order 682
+order_status,Order status 683
+order_status,Order delivery update 684
+order_status,My order is delayed 685
+order_status,Order kab ayega 686
+order_status,Order kaha hai 687
+order_status,Delivery status 688
+order_status,Where is my order 689
+order_status,Track my order 690
+order_status,Order status 691
+order_status,Order delivery update 692
+order_status,My order is delayed 693
+order_status,Order kab ayega 694
+order_status,Order kaha hai 695
+order_status,Delivery status 696
+order_status,Where is my order 697
+order_status,Track my order 698
+order_status,Order status 699
+order_status,Order delivery update 700
+order_status,My order is delayed 701
+order_status,Order kab ayega 702
+order_status,Order kaha hai 703
+order_status,Delivery status 704
+order_status,Where is my order 705
+order_status,Track my order 706
+order_status,Order status 707
+order_status,Order delivery update 708
+order_status,My order is delayed 709
+order_status,Order kab ayega 710
+order_status,Order kaha hai 711
+order_status,Delivery status 712
+order_status,Where is my order 713
+order_status,Track my order 714
+order_status,Order status 715
+order_status,Order delivery update 716
+order_status,My order is delayed 717
+order_status,Order kab ayega 718
+order_status,Order kaha hai 719
+order_status,Delivery status 720
+order_status,Where is my order 721
+order_status,Track my order 722
+order_status,Order status 723
+order_status,Order delivery update 724
+order_status,My order is delayed 725
+order_status,Order kab ayega 726
+order_status,Order kaha hai 727
+order_status,Delivery status 728
+order_status,Where is my order 729
+order_status,Track my order 730
+order_status,Order status 731
+order_status,Order delivery update 732
+order_status,My order is delayed 733
+order_status,Order kab ayega 734
+order_status,Order kaha hai 735
+order_status,Delivery status 736
+order_status,Where is my order 737
+order_status,Track my order 738
+order_status,Order status 739
+order_status,Order delivery update 740
+order_status,My order is delayed 741
+order_status,Order kab ayega 742
+order_status,Order kaha hai 743
+order_status,Delivery status 744
+order_status,Where is my order 745
+order_status,Track my order 746
+order_status,Order status 747
+order_status,Order delivery update 748
+order_status,My order is delayed 749
+order_status,Order kab ayega 750
+order_status,Order kaha hai 751
+order_status,Delivery status 752
+order_status,Where is my order 753
+order_status,Track my order 754
+order_status,Order status 755
+order_status,Order delivery update 756
+order_status,My order is delayed 757
+order_status,Order kab ayega 758
+order_status,Order kaha hai 759
+order_status,Delivery status 760
+order_status,Where is my order 761
+order_status,Track my order 762
+order_status,Order status 763
+order_status,Order delivery update 764
+order_status,My order is delayed 765
+order_status,Order kab ayega 766
+order_status,Order kaha hai 767
+order_status,Delivery status 768
+order_status,Where is my order 769
+order_status,Track my order 770
+order_status,Order status 771
+order_status,Order delivery update 772
+order_status,My order is delayed 773
+order_status,Order kab ayega 774
+order_status,Order kaha hai 775
+order_status,Delivery status 776
+order_status,Where is my order 777
+order_status,Track my order 778
+order_status,Order status 779
+order_status,Order delivery update 780
+order_status,My order is delayed 781
+order_status,Order kab ayega 782
+order_status,Order kaha hai 783
+order_status,Delivery status 784
+order_status,Where is my order 785
+order_status,Track my order 786
+order_status,Order status 787
+order_status,Order delivery update 788
+order_status,My order is delayed 789
+order_status,Order kab ayega 790
+order_status,Order kaha hai 791
+order_status,Delivery status 792
+order_status,Where is my order 793
+order_status,Track my order 794
+order_status,Order status 795
+order_status,Order delivery update 796
+order_status,My order is delayed 797
+order_status,Order kab ayega 798
+order_status,Order kaha hai 799
+order_status,Delivery status 800
+order_status,Where is my order 801
+order_status,Track my order 802
+order_status,Order status 803
+order_status,Order delivery update 804
+order_status,My order is delayed 805
+order_status,Order kab ayega 806
+order_status,Order kaha hai 807
+order_status,Delivery status 808
+order_status,Where is my order 809
+order_status,Track my order 810
+order_status,Order status 811
+order_status,Order delivery update 812
+order_status,My order is delayed 813
+order_status,Order kab ayega 814
+order_status,Order kaha hai 815
+order_status,Delivery status 816
+order_status,Where is my order 817
+order_status,Track my order 818
+order_status,Order status 819
+order_status,Order delivery update 820
+order_status,My order is delayed 821
+order_status,Order kab ayega 822
+order_status,Order kaha hai 823
+order_status,Delivery status 824
+order_status,Where is my order 825
+order_status,Track my order 826
+order_status,Order status 827
+order_status,Order delivery update 828
+order_status,My order is delayed 829
+order_status,Order kab ayega 830
+order_status,Order kaha hai 831
+order_status,Delivery status 832
+order_status,Where is my order 833
+order_status,Track my order 834
+order_status,Order status 835
+order_status,Order delivery update 836
+order_status,My order is delayed 837
+order_status,Order kab ayega 838
+order_status,Order kaha hai 839
+order_status,Delivery status 840
+order_status,Where is my order 841
+order_status,Track my order 842
+order_status,Order status 843
+order_status,Order delivery update 844
+order_status,My order is delayed 845
+order_status,Order kab ayega 846
+order_status,Order kaha hai 847
+order_status,Delivery status 848
+order_status,Where is my order 849
+order_status,Track my order 850
+order_status,Order status 851
+order_status,Order delivery update 852
+order_status,My order is delayed 853
+order_status,Order kab ayega 854
+order_status,Order kaha hai 855
+order_status,Delivery status 856
+order_status,Where is my order 857
+order_status,Track my order 858
+order_status,Order status 859
+order_status,Order delivery update 860
+order_status,My order is delayed 861
+order_status,Order kab ayega 862
+order_status,Order kaha hai 863
+order_status,Delivery status 864
+order_status,Where is my order 865
+order_status,Track my order 866
+order_status,Order status 867
+order_status,Order delivery update 868
+order_status,My order is delayed 869
+order_status,Order kab ayega 870
+order_status,Order kaha hai 871
+order_status,Delivery status 872
+order_status,Where is my order 873
+order_status,Track my order 874
+order_status,Order status 875
+order_status,Order delivery update 876
+order_status,My order is delayed 877
+order_status,Order kab ayega 878
+order_status,Order kaha hai 879
+order_status,Delivery status 880
+order_status,Where is my order 881
+order_status,Track my order 882
+order_status,Order status 883
+order_status,Order delivery update 884
+order_status,My order is delayed 885
+order_status,Order kab ayega 886
+order_status,Order kaha hai 887
+order_status,Delivery status 888
+order_status,Where is my order 889
+order_status,Track my order 890
+order_status,Order status 891
+order_status,Order delivery update 892
+order_status,My order is delayed 893
+order_status,Order kab ayega 894
+order_status,Order kaha hai 895
+order_status,Delivery status 896
+order_status,Where is my order 897
+order_status,Track my order 898
+order_status,Order status 899
+order_status,Order delivery update 900
+order_status,My order is delayed 901
+order_status,Order kab ayega 902
+order_status,Order kaha hai 903
+order_status,Delivery status 904
+order_status,Where is my order 905
+order_status,Track my order 906
+order_status,Order status 907
+order_status,Order delivery update 908
+order_status,My order is delayed 909
+order_status,Order kab ayega 910
+order_status,Order kaha hai 911
+order_status,Delivery status 912
+order_status,Where is my order 913
+order_status,Track my order 914
+order_status,Order status 915
+order_status,Order delivery update 916
+order_status,My order is delayed 917
+order_status,Order kab ayega 918
+order_status,Order kaha hai 919
+order_status,Delivery status 920
+order_status,Where is my order 921
+order_status,Track my order 922
+order_status,Order status 923
+order_status,Order delivery update 924
+order_status,My order is delayed 925
+order_status,Order kab ayega 926
+order_status,Order kaha hai 927
+order_status,Delivery status 928
+order_status,Where is my order 929
+order_status,Track my order 930
+order_status,Order status 931
+order_status,Order delivery update 932
+order_status,My order is delayed 933
+order_status,Order kab ayega 934
+order_status,Order kaha hai 935
+order_status,Delivery status 936
+order_status,Where is my order 937
+order_status,Track my order 938
+order_status,Order status 939
+order_status,Order delivery update 940
+order_status,My order is delayed 941
+order_status,Order kab ayega 942
+order_status,Order kaha hai 943
+order_status,Delivery status 944
+order_status,Where is my order 945
+order_status,Track my order 946
+order_status,Order status 947
+order_status,Order delivery update 948
+order_status,My order is delayed 949
+order_status,Order kab ayega 950
+order_status,Order kaha hai 951
+order_status,Delivery status 952
+order_status,Where is my order 953
+order_status,Track my order 954
+order_status,Order status 955
+order_status,Order delivery update 956
+order_status,My order is delayed 957
+order_status,Order kab ayega 958
+order_status,Order kaha hai 959
+order_status,Delivery status 960
+order_status,Where is my order 961
+order_status,Track my order 962
+order_status,Order status 963
+order_status,Order delivery update 964
+order_status,My order is delayed 965
+order_status,Order kab ayega 966
+order_status,Order kaha hai 967
+order_status,Delivery status 968
+order_status,Where is my order 969
+order_status,Track my order 970
+order_status,Order status 971
+order_status,Order delivery update 972
+order_status,My order is delayed 973
+order_status,Order kab ayega 974
+order_status,Order kaha hai 975
+order_status,Delivery status 976
+order_status,Where is my order 977
+order_status,Track my order 978
+order_status,Order status 979
+order_status,Order delivery update 980
+order_status,My order is delayed 981
+order_status,Order kab ayega 982
+order_status,Order kaha hai 983
+order_status,Delivery status 984
+order_status,Where is my order 985
+order_status,Track my order 986
+order_status,Order status 987
+order_status,Order delivery update 988
+order_status,My order is delayed 989
+order_status,Order kab ayega 990
+order_status,Order kaha hai 991
+order_status,Delivery status 992
+order_status,Where is my order 993
+order_status,Track my order 994
+order_status,Order status 995
+order_status,Order delivery update 996
+order_status,My order is delayed 997
+order_status,Order kab ayega 998
+order_status,Order kaha hai 999
+order_status,Delivery status 1000
+refund_request,I want a refund 1
+refund_request,Refund status 2
+refund_request,Money deducted but order failed 3
+refund_request,Refund pending 4
+refund_request,Refund kab milega 5
+refund_request,Paisa wapas chahiye 6
+refund_request,Refund not received 7
+refund_request,Refund ka status 8
+refund_request,I want a refund 9
+refund_request,Refund status 10
+refund_request,Money deducted but order failed 11
+refund_request,Refund pending 12
+refund_request,Refund kab milega 13
+refund_request,Paisa wapas chahiye 14
+refund_request,Refund not received 15
+refund_request,Refund ka status 16
+refund_request,I want a refund 17
+refund_request,Refund status 18
+refund_request,Money deducted but order failed 19
+refund_request,Refund pending 20
+refund_request,Refund kab milega 21
+refund_request,Paisa wapas chahiye 22
+refund_request,Refund not received 23
+refund_request,Refund ka status 24
+refund_request,I want a refund 25
+refund_request,Refund status 26
+refund_request,Money deducted but order failed 27
+refund_request,Refund pending 28
+refund_request,Refund kab milega 29
+refund_request,Paisa wapas chahiye 30
+refund_request,Refund not received 31
+refund_request,Refund ka status 32
+refund_request,I want a refund 33
+refund_request,Refund status 34
+refund_request,Money deducted but order failed 35
+refund_request,Refund pending 36
+refund_request,Refund kab milega 37
+refund_request,Paisa wapas chahiye 38
+refund_request,Refund not received 39
+refund_request,Refund ka status 40
+refund_request,I want a refund 41
+refund_request,Refund status 42
+refund_request,Money deducted but order failed 43
+refund_request,Refund pending 44
+refund_request,Refund kab milega 45
+refund_request,Paisa wapas chahiye 46
+refund_request,Refund not received 47
+refund_request,Refund ka status 48
+refund_request,I want a refund 49
+refund_request,Refund status 50
+refund_request,Money deducted but order failed 51
+refund_request,Refund pending 52
+refund_request,Refund kab milega 53
+refund_request,Paisa wapas chahiye 54
+refund_request,Refund not received 55
+refund_request,Refund ka status 56
+refund_request,I want a refund 57
+refund_request,Refund status 58
+refund_request,Money deducted but order failed 59
+refund_request,Refund pending 60
+refund_request,Refund kab milega 61
+refund_request,Paisa wapas chahiye 62
+refund_request,Refund not received 63
+refund_request,Refund ka status 64
+refund_request,I want a refund 65
+refund_request,Refund status 66
+refund_request,Money deducted but order failed 67
+refund_request,Refund pending 68
+refund_request,Refund kab milega 69
+refund_request,Paisa wapas chahiye 70
+refund_request,Refund not received 71
+refund_request,Refund ka status 72
+refund_request,I want a refund 73
+refund_request,Refund status 74
+refund_request,Money deducted but order failed 75
+refund_request,Refund pending 76
+refund_request,Refund kab milega 77
+refund_request,Paisa wapas chahiye 78
+refund_request,Refund not received 79
+refund_request,Refund ka status 80
+refund_request,I want a refund 81
+refund_request,Refund status 82
+refund_request,Money deducted but order failed 83
+refund_request,Refund pending 84
+refund_request,Refund kab milega 85
+refund_request,Paisa wapas chahiye 86
+refund_request,Refund not received 87
+refund_request,Refund ka status 88
+refund_request,I want a refund 89
+refund_request,Refund status 90
+refund_request,Money deducted but order failed 91
+refund_request,Refund pending 92
+refund_request,Refund kab milega 93
+refund_request,Paisa wapas chahiye 94
+refund_request,Refund not received 95
+refund_request,Refund ka status 96
+refund_request,I want a refund 97
+refund_request,Refund status 98
+refund_request,Money deducted but order failed 99
+refund_request,Refund pending 100
+refund_request,Refund kab milega 101
+refund_request,Paisa wapas chahiye 102
+refund_request,Refund not received 103
+refund_request,Refund ka status 104
+refund_request,I want a refund 105
+refund_request,Refund status 106
+refund_request,Money deducted but order failed 107
+refund_request,Refund pending 108
+refund_request,Refund kab milega 109
+refund_request,Paisa wapas chahiye 110
+refund_request,Refund not received 111
+refund_request,Refund ka status 112
+refund_request,I want a refund 113
+refund_request,Refund status 114
+refund_request,Money deducted but order failed 115
+refund_request,Refund pending 116
+refund_request,Refund kab milega 117
+refund_request,Paisa wapas chahiye 118
+refund_request,Refund not received 119
+refund_request,Refund ka status 120
+refund_request,I want a refund 121
+refund_request,Refund status 122
+refund_request,Money deducted but order failed 123
+refund_request,Refund pending 124
+refund_request,Refund kab milega 125
+refund_request,Paisa wapas chahiye 126
+refund_request,Refund not received 127
+refund_request,Refund ka status 128
+refund_request,I want a refund 129
+refund_request,Refund status 130
+refund_request,Money deducted but order failed 131
+refund_request,Refund pending 132
+refund_request,Refund kab milega 133
+refund_request,Paisa wapas chahiye 134
+refund_request,Refund not received 135
+refund_request,Refund ka status 136
+refund_request,I want a refund 137
+refund_request,Refund status 138
+refund_request,Money deducted but order failed 139
+refund_request,Refund pending 140
+refund_request,Refund kab milega 141
+refund_request,Paisa wapas chahiye 142
+refund_request,Refund not received 143
+refund_request,Refund ka status 144
+refund_request,I want a refund 145
+refund_request,Refund status 146
+refund_request,Money deducted but order failed 147
+refund_request,Refund pending 148
+refund_request,Refund kab milega 149
+refund_request,Paisa wapas chahiye 150
+refund_request,Refund not received 151
+refund_request,Refund ka status 152
+refund_request,I want a refund 153
+refund_request,Refund status 154
+refund_request,Money deducted but order failed 155
+refund_request,Refund pending 156
+refund_request,Refund kab milega 157
+refund_request,Paisa wapas chahiye 158
+refund_request,Refund not received 159
+refund_request,Refund ka status 160
+refund_request,I want a refund 161
+refund_request,Refund status 162
+refund_request,Money deducted but order failed 163
+refund_request,Refund pending 164
+refund_request,Refund kab milega 165
+refund_request,Paisa wapas chahiye 166
+refund_request,Refund not received 167
+refund_request,Refund ka status 168
+refund_request,I want a refund 169
+refund_request,Refund status 170
+refund_request,Money deducted but order failed 171
+refund_request,Refund pending 172
+refund_request,Refund kab milega 173
+refund_request,Paisa wapas chahiye 174
+refund_request,Refund not received 175
+refund_request,Refund ka status 176
+refund_request,I want a refund 177
+refund_request,Refund status 178
+refund_request,Money deducted but order failed 179
+refund_request,Refund pending 180
+refund_request,Refund kab milega 181
+refund_request,Paisa wapas chahiye 182
+refund_request,Refund not received 183
+refund_request,Refund ka status 184
+refund_request,I want a refund 185
+refund_request,Refund status 186
+refund_request,Money deducted but order failed 187
+refund_request,Refund pending 188
+refund_request,Refund kab milega 189
+refund_request,Paisa wapas chahiye 190
+refund_request,Refund not received 191
+refund_request,Refund ka status 192
+refund_request,I want a refund 193
+refund_request,Refund status 194
+refund_request,Money deducted but order failed 195
+refund_request,Refund pending 196
+refund_request,Refund kab milega 197
+refund_request,Paisa wapas chahiye 198
+refund_request,Refund not received 199
+refund_request,Refund ka status 200
+refund_request,I want a refund 201
+refund_request,Refund status 202
+refund_request,Money deducted but order failed 203
+refund_request,Refund pending 204
+refund_request,Refund kab milega 205
+refund_request,Paisa wapas chahiye 206
+refund_request,Refund not received 207
+refund_request,Refund ka status 208
+refund_request,I want a refund 209
+refund_request,Refund status 210
+refund_request,Money deducted but order failed 211
+refund_request,Refund pending 212
+refund_request,Refund kab milega 213
+refund_request,Paisa wapas chahiye 214
+refund_request,Refund not received 215
+refund_request,Refund ka status 216
+refund_request,I want a refund 217
+refund_request,Refund status 218
+refund_request,Money deducted but order failed 219
+refund_request,Refund pending 220
+refund_request,Refund kab milega 221
+refund_request,Paisa wapas chahiye 222
+refund_request,Refund not received 223
+refund_request,Refund ka status 224
+refund_request,I want a refund 225
+refund_request,Refund status 226
+refund_request,Money deducted but order failed 227
+refund_request,Refund pending 228
+refund_request,Refund kab milega 229
+refund_request,Paisa wapas chahiye 230
+refund_request,Refund not received 231
+refund_request,Refund ka status 232
+refund_request,I want a refund 233
+refund_request,Refund status 234
+refund_request,Money deducted but order failed 235
+refund_request,Refund pending 236
+refund_request,Refund kab milega 237
+refund_request,Paisa wapas chahiye 238
+refund_request,Refund not received 239
+refund_request,Refund ka status 240
+refund_request,I want a refund 241
+refund_request,Refund status 242
+refund_request,Money deducted but order failed 243
+refund_request,Refund pending 244
+refund_request,Refund kab milega 245
+refund_request,Paisa wapas chahiye 246
+refund_request,Refund not received 247
+refund_request,Refund ka status 248
+refund_request,I want a refund 249
+refund_request,Refund status 250
+refund_request,Money deducted but order failed 251
+refund_request,Refund pending 252
+refund_request,Refund kab milega 253
+refund_request,Paisa wapas chahiye 254
+refund_request,Refund not received 255
+refund_request,Refund ka status 256
+refund_request,I want a refund 257
+refund_request,Refund status 258
+refund_request,Money deducted but order failed 259
+refund_request,Refund pending 260
+refund_request,Refund kab milega 261
+refund_request,Paisa wapas chahiye 262
+refund_request,Refund not received 263
+refund_request,Refund ka status 264
+refund_request,I want a refund 265
+refund_request,Refund status 266
+refund_request,Money deducted but order failed 267
+refund_request,Refund pending 268
+refund_request,Refund kab milega 269
+refund_request,Paisa wapas chahiye 270
+refund_request,Refund not received 271
+refund_request,Refund ka status 272
+refund_request,I want a refund 273
+refund_request,Refund status 274
+refund_request,Money deducted but order failed 275
+refund_request,Refund pending 276
+refund_request,Refund kab milega 277
+refund_request,Paisa wapas chahiye 278
+refund_request,Refund not received 279
+refund_request,Refund ka status 280
+refund_request,I want a refund 281
+refund_request,Refund status 282
+refund_request,Money deducted but order failed 283
+refund_request,Refund pending 284
+refund_request,Refund kab milega 285
+refund_request,Paisa wapas chahiye 286
+refund_request,Refund not received 287
+refund_request,Refund ka status 288
+refund_request,I want a refund 289
+refund_request,Refund status 290
+refund_request,Money deducted but order failed 291
+refund_request,Refund pending 292
+refund_request,Refund kab milega 293
+refund_request,Paisa wapas chahiye 294
+refund_request,Refund not received 295
+refund_request,Refund ka status 296
+refund_request,I want a refund 297
+refund_request,Refund status 298
+refund_request,Money deducted but order failed 299
+refund_request,Refund pending 300
+refund_request,Refund kab milega 301
+refund_request,Paisa wapas chahiye 302
+refund_request,Refund not received 303
+refund_request,Refund ka status 304
+refund_request,I want a refund 305
+refund_request,Refund status 306
+refund_request,Money deducted but order failed 307
+refund_request,Refund pending 308
+refund_request,Refund kab milega 309
+refund_request,Paisa wapas chahiye 310
+refund_request,Refund not received 311
+refund_request,Refund ka status 312
+refund_request,I want a refund 313
+refund_request,Refund status 314
+refund_request,Money deducted but order failed 315
+refund_request,Refund pending 316
+refund_request,Refund kab milega 317
+refund_request,Paisa wapas chahiye 318
+refund_request,Refund not received 319
+refund_request,Refund ka status 320
+refund_request,I want a refund 321
+refund_request,Refund status 322
+refund_request,Money deducted but order failed 323
+refund_request,Refund pending 324
+refund_request,Refund kab milega 325
+refund_request,Paisa wapas chahiye 326
+refund_request,Refund not received 327
+refund_request,Refund ka status 328
+refund_request,I want a refund 329
+refund_request,Refund status 330
+refund_request,Money deducted but order failed 331
+refund_request,Refund pending 332
+refund_request,Refund kab milega 333
+refund_request,Paisa wapas chahiye 334
+refund_request,Refund not received 335
+refund_request,Refund ka status 336
+refund_request,I want a refund 337
+refund_request,Refund status 338
+refund_request,Money deducted but order failed 339
+refund_request,Refund pending 340
+refund_request,Refund kab milega 341
+refund_request,Paisa wapas chahiye 342
+refund_request,Refund not received 343
+refund_request,Refund ka status 344
+refund_request,I want a refund 345
+refund_request,Refund status 346
+refund_request,Money deducted but order failed 347
+refund_request,Refund pending 348
+refund_request,Refund kab milega 349
+refund_request,Paisa wapas chahiye 350
+refund_request,Refund not received 351
+refund_request,Refund ka status 352
+refund_request,I want a refund 353
+refund_request,Refund status 354
+refund_request,Money deducted but order failed 355
+refund_request,Refund pending 356
+refund_request,Refund kab milega 357
+refund_request,Paisa wapas chahiye 358
+refund_request,Refund not received 359
+refund_request,Refund ka status 360
+refund_request,I want a refund 361
+refund_request,Refund status 362
+refund_request,Money deducted but order failed 363
+refund_request,Refund pending 364
+refund_request,Refund kab milega 365
+refund_request,Paisa wapas chahiye 366
+refund_request,Refund not received 367
+refund_request,Refund ka status 368
+refund_request,I want a refund 369
+refund_request,Refund status 370
+refund_request,Money deducted but order failed 371
+refund_request,Refund pending 372
+refund_request,Refund kab milega 373
+refund_request,Paisa wapas chahiye 374
+refund_request,Refund not received 375
+refund_request,Refund ka status 376
+refund_request,I want a refund 377
+refund_request,Refund status 378
+refund_request,Money deducted but order failed 379
+refund_request,Refund pending 380
+refund_request,Refund kab milega 381
+refund_request,Paisa wapas chahiye 382
+refund_request,Refund not received 383
+refund_request,Refund ka status 384
+refund_request,I want a refund 385
+refund_request,Refund status 386
+refund_request,Money deducted but order failed 387
+refund_request,Refund pending 388
+refund_request,Refund kab milega 389
+refund_request,Paisa wapas chahiye 390
+refund_request,Refund not received 391
+refund_request,Refund ka status 392
+refund_request,I want a refund 393
+refund_request,Refund status 394
+refund_request,Money deducted but order failed 395
+refund_request,Refund pending 396
+refund_request,Refund kab milega 397
+refund_request,Paisa wapas chahiye 398
+refund_request,Refund not received 399
+refund_request,Refund ka status 400
+refund_request,I want a refund 401
+refund_request,Refund status 402
+refund_request,Money deducted but order failed 403
+refund_request,Refund pending 404
+refund_request,Refund kab milega 405
+refund_request,Paisa wapas chahiye 406
+refund_request,Refund not received 407
+refund_request,Refund ka status 408
+refund_request,I want a refund 409
+refund_request,Refund status 410
+refund_request,Money deducted but order failed 411
+refund_request,Refund pending 412
+refund_request,Refund kab milega 413
+refund_request,Paisa wapas chahiye 414
+refund_request,Refund not received 415
+refund_request,Refund ka status 416
+refund_request,I want a refund 417
+refund_request,Refund status 418
+refund_request,Money deducted but order failed 419
+refund_request,Refund pending 420
+refund_request,Refund kab milega 421
+refund_request,Paisa wapas chahiye 422
+refund_request,Refund not received 423
+refund_request,Refund ka status 424
+refund_request,I want a refund 425
+refund_request,Refund status 426
+refund_request,Money deducted but order failed 427
+refund_request,Refund pending 428
+refund_request,Refund kab milega 429
+refund_request,Paisa wapas chahiye 430
+refund_request,Refund not received 431
+refund_request,Refund ka status 432
+refund_request,I want a refund 433
+refund_request,Refund status 434
+refund_request,Money deducted but order failed 435
+refund_request,Refund pending 436
+refund_request,Refund kab milega 437
+refund_request,Paisa wapas chahiye 438
+refund_request,Refund not received 439
+refund_request,Refund ka status 440
+refund_request,I want a refund 441
+refund_request,Refund status 442
+refund_request,Money deducted but order failed 443
+refund_request,Refund pending 444
+refund_request,Refund kab milega 445
+refund_request,Paisa wapas chahiye 446
+refund_request,Refund not received 447
+refund_request,Refund ka status 448
+refund_request,I want a refund 449
+refund_request,Refund status 450
+refund_request,Money deducted but order failed 451
+refund_request,Refund pending 452
+refund_request,Refund kab milega 453
+refund_request,Paisa wapas chahiye 454
+refund_request,Refund not received 455
+refund_request,Refund ka status 456
+refund_request,I want a refund 457
+refund_request,Refund status 458
+refund_request,Money deducted but order failed 459
+refund_request,Refund pending 460
+refund_request,Refund kab milega 461
+refund_request,Paisa wapas chahiye 462
+refund_request,Refund not received 463
+refund_request,Refund ka status 464
+refund_request,I want a refund 465
+refund_request,Refund status 466
+refund_request,Money deducted but order failed 467
+refund_request,Refund pending 468
+refund_request,Refund kab milega 469
+refund_request,Paisa wapas chahiye 470
+refund_request,Refund not received 471
+refund_request,Refund ka status 472
+refund_request,I want a refund 473
+refund_request,Refund status 474
+refund_request,Money deducted but order failed 475
+refund_request,Refund pending 476
+refund_request,Refund kab milega 477
+refund_request,Paisa wapas chahiye 478
+refund_request,Refund not received 479
+refund_request,Refund ka status 480
+refund_request,I want a refund 481
+refund_request,Refund status 482
+refund_request,Money deducted but order failed 483
+refund_request,Refund pending 484
+refund_request,Refund kab milega 485
+refund_request,Paisa wapas chahiye 486
+refund_request,Refund not received 487
+refund_request,Refund ka status 488
+refund_request,I want a refund 489
+refund_request,Refund status 490
+refund_request,Money deducted but order failed 491
+refund_request,Refund pending 492
+refund_request,Refund kab milega 493
+refund_request,Paisa wapas chahiye 494
+refund_request,Refund not received 495
+refund_request,Refund ka status 496
+refund_request,I want a refund 497
+refund_request,Refund status 498
+refund_request,Money deducted but order failed 499
+refund_request,Refund pending 500
+refund_request,Refund kab milega 501
+refund_request,Paisa wapas chahiye 502
+refund_request,Refund not received 503
+refund_request,Refund ka status 504
+refund_request,I want a refund 505
+refund_request,Refund status 506
+refund_request,Money deducted but order failed 507
+refund_request,Refund pending 508
+refund_request,Refund kab milega 509
+refund_request,Paisa wapas chahiye 510
+refund_request,Refund not received 511
+refund_request,Refund ka status 512
+refund_request,I want a refund 513
+refund_request,Refund status 514
+refund_request,Money deducted but order failed 515
+refund_request,Refund pending 516
+refund_request,Refund kab milega 517
+refund_request,Paisa wapas chahiye 518
+refund_request,Refund not received 519
+refund_request,Refund ka status 520
+refund_request,I want a refund 521
+refund_request,Refund status 522
+refund_request,Money deducted but order failed 523
+refund_request,Refund pending 524
+refund_request,Refund kab milega 525
+refund_request,Paisa wapas chahiye 526
+refund_request,Refund not received 527
+refund_request,Refund ka status 528
+refund_request,I want a refund 529
+refund_request,Refund status 530
+refund_request,Money deducted but order failed 531
+refund_request,Refund pending 532
+refund_request,Refund kab milega 533
+refund_request,Paisa wapas chahiye 534
+refund_request,Refund not received 535
+refund_request,Refund ka status 536
+refund_request,I want a refund 537
+refund_request,Refund status 538
+refund_request,Money deducted but order failed 539
+refund_request,Refund pending 540
+refund_request,Refund kab milega 541
+refund_request,Paisa wapas chahiye 542
+refund_request,Refund not received 543
+refund_request,Refund ka status 544
+refund_request,I want a refund 545
+refund_request,Refund status 546
+refund_request,Money deducted but order failed 547
+refund_request,Refund pending 548
+refund_request,Refund kab milega 549
+refund_request,Paisa wapas chahiye 550
+refund_request,Refund not received 551
+refund_request,Refund ka status 552
+refund_request,I want a refund 553
+refund_request,Refund status 554
+refund_request,Money deducted but order failed 555
+refund_request,Refund pending 556
+refund_request,Refund kab milega 557
+refund_request,Paisa wapas chahiye 558
+refund_request,Refund not received 559
+refund_request,Refund ka status 560
+refund_request,I want a refund 561
+refund_request,Refund status 562
+refund_request,Money deducted but order failed 563
+refund_request,Refund pending 564
+refund_request,Refund kab milega 565
+refund_request,Paisa wapas chahiye 566
+refund_request,Refund not received 567
+refund_request,Refund ka status 568
+refund_request,I want a refund 569
+refund_request,Refund status 570
+refund_request,Money deducted but order failed 571
+refund_request,Refund pending 572
+refund_request,Refund kab milega 573
+refund_request,Paisa wapas chahiye 574
+refund_request,Refund not received 575
+refund_request,Refund ka status 576
+refund_request,I want a refund 577
+refund_request,Refund status 578
+refund_request,Money deducted but order failed 579
+refund_request,Refund pending 580
+refund_request,Refund kab milega 581
+refund_request,Paisa wapas chahiye 582
+refund_request,Refund not received 583
+refund_request,Refund ka status 584
+refund_request,I want a refund 585
+refund_request,Refund status 586
+refund_request,Money deducted but order failed 587
+refund_request,Refund pending 588
+refund_request,Refund kab milega 589
+refund_request,Paisa wapas chahiye 590
+refund_request,Refund not received 591
+refund_request,Refund ka status 592
+refund_request,I want a refund 593
+refund_request,Refund status 594
+refund_request,Money deducted but order failed 595
+refund_request,Refund pending 596
+refund_request,Refund kab milega 597
+refund_request,Paisa wapas chahiye 598
+refund_request,Refund not received 599
+refund_request,Refund ka status 600
+refund_request,I want a refund 601
+refund_request,Refund status 602
+refund_request,Money deducted but order failed 603
+refund_request,Refund pending 604
+refund_request,Refund kab milega 605
+refund_request,Paisa wapas chahiye 606
+refund_request,Refund not received 607
+refund_request,Refund ka status 608
+refund_request,I want a refund 609
+refund_request,Refund status 610
+refund_request,Money deducted but order failed 611
+refund_request,Refund pending 612
+refund_request,Refund kab milega 613
+refund_request,Paisa wapas chahiye 614
+refund_request,Refund not received 615
+refund_request,Refund ka status 616
+refund_request,I want a refund 617
+refund_request,Refund status 618
+refund_request,Money deducted but order failed 619
+refund_request,Refund pending 620
+refund_request,Refund kab milega 621
+refund_request,Paisa wapas chahiye 622
+refund_request,Refund not received 623
+refund_request,Refund ka status 624
+refund_request,I want a refund 625
+refund_request,Refund status 626
+refund_request,Money deducted but order failed 627
+refund_request,Refund pending 628
+refund_request,Refund kab milega 629
+refund_request,Paisa wapas chahiye 630
+refund_request,Refund not received 631
+refund_request,Refund ka status 632
+refund_request,I want a refund 633
+refund_request,Refund status 634
+refund_request,Money deducted but order failed 635
+refund_request,Refund pending 636
+refund_request,Refund kab milega 637
+refund_request,Paisa wapas chahiye 638
+refund_request,Refund not received 639
+refund_request,Refund ka status 640
+refund_request,I want a refund 641
+refund_request,Refund status 642
+refund_request,Money deducted but order failed 643
+refund_request,Refund pending 644
+refund_request,Refund kab milega 645
+refund_request,Paisa wapas chahiye 646
+refund_request,Refund not received 647
+refund_request,Refund ka status 648
+refund_request,I want a refund 649
+refund_request,Refund status 650
+refund_request,Money deducted but order failed 651
+refund_request,Refund pending 652
+refund_request,Refund kab milega 653
+refund_request,Paisa wapas chahiye 654
+refund_request,Refund not received 655
+refund_request,Refund ka status 656
+refund_request,I want a refund 657
+refund_request,Refund status 658
+refund_request,Money deducted but order failed 659
+refund_request,Refund pending 660
+refund_request,Refund kab milega 661
+refund_request,Paisa wapas chahiye 662
+refund_request,Refund not received 663
+refund_request,Refund ka status 664
+refund_request,I want a refund 665
+refund_request,Refund status 666
+refund_request,Money deducted but order failed 667
+refund_request,Refund pending 668
+refund_request,Refund kab milega 669
+refund_request,Paisa wapas chahiye 670
+refund_request,Refund not received 671
+refund_request,Refund ka status 672
+refund_request,I want a refund 673
+refund_request,Refund status 674
+refund_request,Money deducted but order failed 675
+refund_request,Refund pending 676
+refund_request,Refund kab milega 677
+refund_request,Paisa wapas chahiye 678
+refund_request,Refund not received 679
+refund_request,Refund ka status 680
+refund_request,I want a refund 681
+refund_request,Refund status 682
+refund_request,Money deducted but order failed 683
+refund_request,Refund pending 684
+refund_request,Refund kab milega 685
+refund_request,Paisa wapas chahiye 686
+refund_request,Refund not received 687
+refund_request,Refund ka status 688
+refund_request,I want a refund 689
+refund_request,Refund status 690
+refund_request,Money deducted but order failed 691
+refund_request,Refund pending 692
+refund_request,Refund kab milega 693
+refund_request,Paisa wapas chahiye 694
+refund_request,Refund not received 695
+refund_request,Refund ka status 696
+refund_request,I want a refund 697
+refund_request,Refund status 698
+refund_request,Money deducted but order failed 699
+refund_request,Refund pending 700
+refund_request,Refund kab milega 701
+refund_request,Paisa wapas chahiye 702
+refund_request,Refund not received 703
+refund_request,Refund ka status 704
+refund_request,I want a refund 705
+refund_request,Refund status 706
+refund_request,Money deducted but order failed 707
+refund_request,Refund pending 708
+refund_request,Refund kab milega 709
+refund_request,Paisa wapas chahiye 710
+refund_request,Refund not received 711
+refund_request,Refund ka status 712
+refund_request,I want a refund 713
+refund_request,Refund status 714
+refund_request,Money deducted but order failed 715
+refund_request,Refund pending 716
+refund_request,Refund kab milega 717
+refund_request,Paisa wapas chahiye 718
+refund_request,Refund not received 719
+refund_request,Refund ka status 720
+refund_request,I want a refund 721
+refund_request,Refund status 722
+refund_request,Money deducted but order failed 723
+refund_request,Refund pending 724
+refund_request,Refund kab milega 725
+refund_request,Paisa wapas chahiye 726
+refund_request,Refund not received 727
+refund_request,Refund ka status 728
+refund_request,I want a refund 729
+refund_request,Refund status 730
+refund_request,Money deducted but order failed 731
+refund_request,Refund pending 732
+refund_request,Refund kab milega 733
+refund_request,Paisa wapas chahiye 734
+refund_request,Refund not received 735
+refund_request,Refund ka status 736
+refund_request,I want a refund 737
+refund_request,Refund status 738
+refund_request,Money deducted but order failed 739
+refund_request,Refund pending 740
+refund_request,Refund kab milega 741
+refund_request,Paisa wapas chahiye 742
+refund_request,Refund not received 743
+refund_request,Refund ka status 744
+refund_request,I want a refund 745
+refund_request,Refund status 746
+refund_request,Money deducted but order failed 747
+refund_request,Refund pending 748
+refund_request,Refund kab milega 749
+refund_request,Paisa wapas chahiye 750
+refund_request,Refund not received 751
+refund_request,Refund ka status 752
+refund_request,I want a refund 753
+refund_request,Refund status 754
+refund_request,Money deducted but order failed 755
+refund_request,Refund pending 756
+refund_request,Refund kab milega 757
+refund_request,Paisa wapas chahiye 758
+refund_request,Refund not received 759
+refund_request,Refund ka status 760
+refund_request,I want a refund 761
+refund_request,Refund status 762
+refund_request,Money deducted but order failed 763
+refund_request,Refund pending 764
+refund_request,Refund kab milega 765
+refund_request,Paisa wapas chahiye 766
+refund_request,Refund not received 767
+refund_request,Refund ka status 768
+refund_request,I want a refund 769
+refund_request,Refund status 770
+refund_request,Money deducted but order failed 771
+refund_request,Refund pending 772
+refund_request,Refund kab milega 773
+refund_request,Paisa wapas chahiye 774
+refund_request,Refund not received 775
+refund_request,Refund ka status 776
+refund_request,I want a refund 777
+refund_request,Refund status 778
+refund_request,Money deducted but order failed 779
+refund_request,Refund pending 780
+refund_request,Refund kab milega 781
+refund_request,Paisa wapas chahiye 782
+refund_request,Refund not received 783
+refund_request,Refund ka status 784
+refund_request,I want a refund 785
+refund_request,Refund status 786
+refund_request,Money deducted but order failed 787
+refund_request,Refund pending 788
+refund_request,Refund kab milega 789
+refund_request,Paisa wapas chahiye 790
+refund_request,Refund not received 791
+refund_request,Refund ka status 792
+refund_request,I want a refund 793
+refund_request,Refund status 794
+refund_request,Money deducted but order failed 795
+refund_request,Refund pending 796
+refund_request,Refund kab milega 797
+refund_request,Paisa wapas chahiye 798
+refund_request,Refund not received 799
+refund_request,Refund ka status 800
+refund_request,I want a refund 801
+refund_request,Refund status 802
+refund_request,Money deducted but order failed 803
+refund_request,Refund pending 804
+refund_request,Refund kab milega 805
+refund_request,Paisa wapas chahiye 806
+refund_request,Refund not received 807
+refund_request,Refund ka status 808
+refund_request,I want a refund 809
+refund_request,Refund status 810
+refund_request,Money deducted but order failed 811
+refund_request,Refund pending 812
+refund_request,Refund kab milega 813
+refund_request,Paisa wapas chahiye 814
+refund_request,Refund not received 815
+refund_request,Refund ka status 816
+refund_request,I want a refund 817
+refund_request,Refund status 818
+refund_request,Money deducted but order failed 819
+refund_request,Refund pending 820
+refund_request,Refund kab milega 821
+refund_request,Paisa wapas chahiye 822
+refund_request,Refund not received 823
+refund_request,Refund ka status 824
+refund_request,I want a refund 825
+refund_request,Refund status 826
+refund_request,Money deducted but order failed 827
+refund_request,Refund pending 828
+refund_request,Refund kab milega 829
+refund_request,Paisa wapas chahiye 830
+refund_request,Refund not received 831
+refund_request,Refund ka status 832
+refund_request,I want a refund 833
+refund_request,Refund status 834
+refund_request,Money deducted but order failed 835
+refund_request,Refund pending 836
+refund_request,Refund kab milega 837
+refund_request,Paisa wapas chahiye 838
+refund_request,Refund not received 839
+refund_request,Refund ka status 840
+refund_request,I want a refund 841
+refund_request,Refund status 842
+refund_request,Money deducted but order failed 843
+refund_request,Refund pending 844
+refund_request,Refund kab milega 845
+refund_request,Paisa wapas chahiye 846
+refund_request,Refund not received 847
+refund_request,Refund ka status 848
+refund_request,I want a refund 849
+refund_request,Refund status 850
+refund_request,Money deducted but order failed 851
+refund_request,Refund pending 852
+refund_request,Refund kab milega 853
+refund_request,Paisa wapas chahiye 854
+refund_request,Refund not received 855
+refund_request,Refund ka status 856
+refund_request,I want a refund 857
+refund_request,Refund status 858
+refund_request,Money deducted but order failed 859
+refund_request,Refund pending 860
+refund_request,Refund kab milega 861
+refund_request,Paisa wapas chahiye 862
+refund_request,Refund not received 863
+refund_request,Refund ka status 864
+refund_request,I want a refund 865
+refund_request,Refund status 866
+refund_request,Money deducted but order failed 867
+refund_request,Refund pending 868
+refund_request,Refund kab milega 869
+refund_request,Paisa wapas chahiye 870
+refund_request,Refund not received 871
+refund_request,Refund ka status 872
+refund_request,I want a refund 873
+refund_request,Refund status 874
+refund_request,Money deducted but order failed 875
+refund_request,Refund pending 876
+refund_request,Refund kab milega 877
+refund_request,Paisa wapas chahiye 878
+refund_request,Refund not received 879
+refund_request,Refund ka status 880
+refund_request,I want a refund 881
+refund_request,Refund status 882
+refund_request,Money deducted but order failed 883
+refund_request,Refund pending 884
+refund_request,Refund kab milega 885
+refund_request,Paisa wapas chahiye 886
+refund_request,Refund not received 887
+refund_request,Refund ka status 888
+refund_request,I want a refund 889
+refund_request,Refund status 890
+refund_request,Money deducted but order failed 891
+refund_request,Refund pending 892
+refund_request,Refund kab milega 893
+refund_request,Paisa wapas chahiye 894
+refund_request,Refund not received 895
+refund_request,Refund ka status 896
+refund_request,I want a refund 897
+refund_request,Refund status 898
+refund_request,Money deducted but order failed 899
+refund_request,Refund pending 900
+refund_request,Refund kab milega 901
+refund_request,Paisa wapas chahiye 902
+refund_request,Refund not received 903
+refund_request,Refund ka status 904
+refund_request,I want a refund 905
+refund_request,Refund status 906
+refund_request,Money deducted but order failed 907
+refund_request,Refund pending 908
+refund_request,Refund kab milega 909
+refund_request,Paisa wapas chahiye 910
+refund_request,Refund not received 911
+refund_request,Refund ka status 912
+refund_request,I want a refund 913
+refund_request,Refund status 914
+refund_request,Money deducted but order failed 915
+refund_request,Refund pending 916
+refund_request,Refund kab milega 917
+refund_request,Paisa wapas chahiye 918
+refund_request,Refund not received 919
+refund_request,Refund ka status 920
+refund_request,I want a refund 921
+refund_request,Refund status 922
+refund_request,Money deducted but order failed 923
+refund_request,Refund pending 924
+refund_request,Refund kab milega 925
+refund_request,Paisa wapas chahiye 926
+refund_request,Refund not received 927
+refund_request,Refund ka status 928
+refund_request,I want a refund 929
+refund_request,Refund status 930
+refund_request,Money deducted but order failed 931
+refund_request,Refund pending 932
+refund_request,Refund kab milega 933
+refund_request,Paisa wapas chahiye 934
+refund_request,Refund not received 935
+refund_request,Refund ka status 936
+refund_request,I want a refund 937
+refund_request,Refund status 938
+refund_request,Money deducted but order failed 939
+refund_request,Refund pending 940
+refund_request,Refund kab milega 941
+refund_request,Paisa wapas chahiye 942
+refund_request,Refund not received 943
+refund_request,Refund ka status 944
+refund_request,I want a refund 945
+refund_request,Refund status 946
+refund_request,Money deducted but order failed 947
+refund_request,Refund pending 948
+refund_request,Refund kab milega 949
+refund_request,Paisa wapas chahiye 950
+refund_request,Refund not received 951
+refund_request,Refund ka status 952
+refund_request,I want a refund 953
+refund_request,Refund status 954
+refund_request,Money deducted but order failed 955
+refund_request,Refund pending 956
+refund_request,Refund kab milega 957
+refund_request,Paisa wapas chahiye 958
+refund_request,Refund not received 959
+refund_request,Refund ka status 960
+refund_request,I want a refund 961
+refund_request,Refund status 962
+refund_request,Money deducted but order failed 963
+refund_request,Refund pending 964
+refund_request,Refund kab milega 965
+refund_request,Paisa wapas chahiye 966
+refund_request,Refund not received 967
+refund_request,Refund ka status 968
+refund_request,I want a refund 969
+refund_request,Refund status 970
+refund_request,Money deducted but order failed 971
+refund_request,Refund pending 972
+refund_request,Refund kab milega 973
+refund_request,Paisa wapas chahiye 974
+refund_request,Refund not received 975
+refund_request,Refund ka status 976
+refund_request,I want a refund 977
+refund_request,Refund status 978
+refund_request,Money deducted but order failed 979
+refund_request,Refund pending 980
+refund_request,Refund kab milega 981
+refund_request,Paisa wapas chahiye 982
+refund_request,Refund not received 983
+refund_request,Refund ka status 984
+refund_request,I want a refund 985
+refund_request,Refund status 986
+refund_request,Money deducted but order failed 987
+refund_request,Refund pending 988
+refund_request,Refund kab milega 989
+refund_request,Paisa wapas chahiye 990
+refund_request,Refund not received 991
+refund_request,Refund ka status 992
+refund_request,I want a refund 993
+refund_request,Refund status 994
+refund_request,Money deducted but order failed 995
+refund_request,Refund pending 996
+refund_request,Refund kab milega 997
+refund_request,Paisa wapas chahiye 998
+refund_request,Refund not received 999
+refund_request,Refund ka status 1000
+order_cancellation,Cancel my order 1
+order_cancellation,Order cancel karna hai 2
+order_cancellation,Cancel order 3
+order_cancellation,I ordered by mistake 4
+order_cancellation,Cancel delivery 5
+order_cancellation,Order cancel asap 6
+order_cancellation,Order rok do 7
+order_cancellation,Cancel purchase 8
+order_cancellation,Cancel my order 9
+order_cancellation,Order cancel karna hai 10
+order_cancellation,Cancel order 11
+order_cancellation,I ordered by mistake 12
+order_cancellation,Cancel delivery 13
+order_cancellation,Order cancel asap 14
+order_cancellation,Order rok do 15
+order_cancellation,Cancel purchase 16
+order_cancellation,Cancel my order 17
+order_cancellation,Order cancel karna hai 18
+order_cancellation,Cancel order 19
+order_cancellation,I ordered by mistake 20
+order_cancellation,Cancel delivery 21
+order_cancellation,Order cancel asap 22
+order_cancellation,Order rok do 23
+order_cancellation,Cancel purchase 24
+order_cancellation,Cancel my order 25
+order_cancellation,Order cancel karna hai 26
+order_cancellation,Cancel order 27
+order_cancellation,I ordered by mistake 28
+order_cancellation,Cancel delivery 29
+order_cancellation,Order cancel asap 30
+order_cancellation,Order rok do 31
+order_cancellation,Cancel purchase 32
+order_cancellation,Cancel my order 33
+order_cancellation,Order cancel karna hai 34
+order_cancellation,Cancel order 35
+order_cancellation,I ordered by mistake 36
+order_cancellation,Cancel delivery 37
+order_cancellation,Order cancel asap 38
+order_cancellation,Order rok do 39
+order_cancellation,Cancel purchase 40
+order_cancellation,Cancel my order 41
+order_cancellation,Order cancel karna hai 42
+order_cancellation,Cancel order 43
+order_cancellation,I ordered by mistake 44
+order_cancellation,Cancel delivery 45
+order_cancellation,Order cancel asap 46
+order_cancellation,Order rok do 47
+order_cancellation,Cancel purchase 48
+order_cancellation,Cancel my order 49
+order_cancellation,Order cancel karna hai 50
+order_cancellation,Cancel order 51
+order_cancellation,I ordered by mistake 52
+order_cancellation,Cancel delivery 53
+order_cancellation,Order cancel asap 54
+order_cancellation,Order rok do 55
+order_cancellation,Cancel purchase 56
+order_cancellation,Cancel my order 57
+order_cancellation,Order cancel karna hai 58
+order_cancellation,Cancel order 59
+order_cancellation,I ordered by mistake 60
+order_cancellation,Cancel delivery 61
+order_cancellation,Order cancel asap 62
+order_cancellation,Order rok do 63
+order_cancellation,Cancel purchase 64
+order_cancellation,Cancel my order 65
+order_cancellation,Order cancel karna hai 66
+order_cancellation,Cancel order 67
+order_cancellation,I ordered by mistake 68
+order_cancellation,Cancel delivery 69
+order_cancellation,Order cancel asap 70
+order_cancellation,Order rok do 71
+order_cancellation,Cancel purchase 72
+order_cancellation,Cancel my order 73
+order_cancellation,Order cancel karna hai 74
+order_cancellation,Cancel order 75
+order_cancellation,I ordered by mistake 76
+order_cancellation,Cancel delivery 77
+order_cancellation,Order cancel asap 78
+order_cancellation,Order rok do 79
+order_cancellation,Cancel purchase 80
+order_cancellation,Cancel my order 81
+order_cancellation,Order cancel karna hai 82
+order_cancellation,Cancel order 83
+order_cancellation,I ordered by mistake 84
+order_cancellation,Cancel delivery 85
+order_cancellation,Order cancel asap 86
+order_cancellation,Order rok do 87
+order_cancellation,Cancel purchase 88
+order_cancellation,Cancel my order 89
+order_cancellation,Order cancel karna hai 90
+order_cancellation,Cancel order 91
+order_cancellation,I ordered by mistake 92
+order_cancellation,Cancel delivery 93
+order_cancellation,Order cancel asap 94
+order_cancellation,Order rok do 95
+order_cancellation,Cancel purchase 96
+order_cancellation,Cancel my order 97
+order_cancellation,Order cancel karna hai 98
+order_cancellation,Cancel order 99
+order_cancellation,I ordered by mistake 100
+order_cancellation,Cancel delivery 101
+order_cancellation,Order cancel asap 102
+order_cancellation,Order rok do 103
+order_cancellation,Cancel purchase 104
+order_cancellation,Cancel my order 105
+order_cancellation,Order cancel karna hai 106
+order_cancellation,Cancel order 107
+order_cancellation,I ordered by mistake 108
+order_cancellation,Cancel delivery 109
+order_cancellation,Order cancel asap 110
+order_cancellation,Order rok do 111
+order_cancellation,Cancel purchase 112
+order_cancellation,Cancel my order 113
+order_cancellation,Order cancel karna hai 114
+order_cancellation,Cancel order 115
+order_cancellation,I ordered by mistake 116
+order_cancellation,Cancel delivery 117
+order_cancellation,Order cancel asap 118
+order_cancellation,Order rok do 119
+order_cancellation,Cancel purchase 120
+order_cancellation,Cancel my order 121
+order_cancellation,Order cancel karna hai 122
+order_cancellation,Cancel order 123
+order_cancellation,I ordered by mistake 124
+order_cancellation,Cancel delivery 125
+order_cancellation,Order cancel asap 126
+order_cancellation,Order rok do 127
+order_cancellation,Cancel purchase 128
+order_cancellation,Cancel my order 129
+order_cancellation,Order cancel karna hai 130
+order_cancellation,Cancel order 131
+order_cancellation,I ordered by mistake 132
+order_cancellation,Cancel delivery 133
+order_cancellation,Order cancel asap 134
+order_cancellation,Order rok do 135
+order_cancellation,Cancel purchase 136
+order_cancellation,Cancel my order 137
+order_cancellation,Order cancel karna hai 138
+order_cancellation,Cancel order 139
+order_cancellation,I ordered by mistake 140
+order_cancellation,Cancel delivery 141
+order_cancellation,Order cancel asap 142
+order_cancellation,Order rok do 143
+order_cancellation,Cancel purchase 144
+order_cancellation,Cancel my order 145
+order_cancellation,Order cancel karna hai 146
+order_cancellation,Cancel order 147
+order_cancellation,I ordered by mistake 148
+order_cancellation,Cancel delivery 149
+order_cancellation,Order cancel asap 150
+order_cancellation,Order rok do 151
+order_cancellation,Cancel purchase 152
+order_cancellation,Cancel my order 153
+order_cancellation,Order cancel karna hai 154
+order_cancellation,Cancel order 155
+order_cancellation,I ordered by mistake 156
+order_cancellation,Cancel delivery 157
+order_cancellation,Order cancel asap 158
+order_cancellation,Order rok do 159
+order_cancellation,Cancel purchase 160
+order_cancellation,Cancel my order 161
+order_cancellation,Order cancel karna hai 162
+order_cancellation,Cancel order 163
+order_cancellation,I ordered by mistake 164
+order_cancellation,Cancel delivery 165
+order_cancellation,Order cancel asap 166
+order_cancellation,Order rok do 167
+order_cancellation,Cancel purchase 168
+order_cancellation,Cancel my order 169
+order_cancellation,Order cancel karna hai 170
+order_cancellation,Cancel order 171
+order_cancellation,I ordered by mistake 172
+order_cancellation,Cancel delivery 173
+order_cancellation,Order cancel asap 174
+order_cancellation,Order rok do 175
+order_cancellation,Cancel purchase 176
+order_cancellation,Cancel my order 177
+order_cancellation,Order cancel karna hai 178
+order_cancellation,Cancel order 179
+order_cancellation,I ordered by mistake 180
+order_cancellation,Cancel delivery 181
+order_cancellation,Order cancel asap 182
+order_cancellation,Order rok do 183
+order_cancellation,Cancel purchase 184
+order_cancellation,Cancel my order 185
+order_cancellation,Order cancel karna hai 186
+order_cancellation,Cancel order 187
+order_cancellation,I ordered by mistake 188
+order_cancellation,Cancel delivery 189
+order_cancellation,Order cancel asap 190
+order_cancellation,Order rok do 191
+order_cancellation,Cancel purchase 192
+order_cancellation,Cancel my order 193
+order_cancellation,Order cancel karna hai 194
+order_cancellation,Cancel order 195
+order_cancellation,I ordered by mistake 196
+order_cancellation,Cancel delivery 197
+order_cancellation,Order cancel asap 198
+order_cancellation,Order rok do 199
+order_cancellation,Cancel purchase 200
+order_cancellation,Cancel my order 201
+order_cancellation,Order cancel karna hai 202
+order_cancellation,Cancel order 203
+order_cancellation,I ordered by mistake 204
+order_cancellation,Cancel delivery 205
+order_cancellation,Order cancel asap 206
+order_cancellation,Order rok do 207
+order_cancellation,Cancel purchase 208
+order_cancellation,Cancel my order 209
+order_cancellation,Order cancel karna hai 210
+order_cancellation,Cancel order 211
+order_cancellation,I ordered by mistake 212
+order_cancellation,Cancel delivery 213
+order_cancellation,Order cancel asap 214
+order_cancellation,Order rok do 215
+order_cancellation,Cancel purchase 216
+order_cancellation,Cancel my order 217
+order_cancellation,Order cancel karna hai 218
+order_cancellation,Cancel order 219
+order_cancellation,I ordered by mistake 220
+order_cancellation,Cancel delivery 221
+order_cancellation,Order cancel asap 222
+order_cancellation,Order rok do 223
+order_cancellation,Cancel purchase 224
+order_cancellation,Cancel my order 225
+order_cancellation,Order cancel karna hai 226
+order_cancellation,Cancel order 227
+order_cancellation,I ordered by mistake 228
+order_cancellation,Cancel delivery 229
+order_cancellation,Order cancel asap 230
+order_cancellation,Order rok do 231
+order_cancellation,Cancel purchase 232
+order_cancellation,Cancel my order 233
+order_cancellation,Order cancel karna hai 234
+order_cancellation,Cancel order 235
+order_cancellation,I ordered by mistake 236
+order_cancellation,Cancel delivery 237
+order_cancellation,Order cancel asap 238
+order_cancellation,Order rok do 239
+order_cancellation,Cancel purchase 240
+order_cancellation,Cancel my order 241
+order_cancellation,Order cancel karna hai 242
+order_cancellation,Cancel order 243
+order_cancellation,I ordered by mistake 244
+order_cancellation,Cancel delivery 245
+order_cancellation,Order cancel asap 246
+order_cancellation,Order rok do 247
+order_cancellation,Cancel purchase 248
+order_cancellation,Cancel my order 249
+order_cancellation,Order cancel karna hai 250
+order_cancellation,Cancel order 251
+order_cancellation,I ordered by mistake 252
+order_cancellation,Cancel delivery 253
+order_cancellation,Order cancel asap 254
+order_cancellation,Order rok do 255
+order_cancellation,Cancel purchase 256
+order_cancellation,Cancel my order 257
+order_cancellation,Order cancel karna hai 258
+order_cancellation,Cancel order 259
+order_cancellation,I ordered by mistake 260
+order_cancellation,Cancel delivery 261
+order_cancellation,Order cancel asap 262
+order_cancellation,Order rok do 263
+order_cancellation,Cancel purchase 264
+order_cancellation,Cancel my order 265
+order_cancellation,Order cancel karna hai 266
+order_cancellation,Cancel order 267
+order_cancellation,I ordered by mistake 268
+order_cancellation,Cancel delivery 269
+order_cancellation,Order cancel asap 270
+order_cancellation,Order rok do 271
+order_cancellation,Cancel purchase 272
+order_cancellation,Cancel my order 273
+order_cancellation,Order cancel karna hai 274
+order_cancellation,Cancel order 275
+order_cancellation,I ordered by mistake 276
+order_cancellation,Cancel delivery 277
+order_cancellation,Order cancel asap 278
+order_cancellation,Order rok do 279
+order_cancellation,Cancel purchase 280
+order_cancellation,Cancel my order 281
+order_cancellation,Order cancel karna hai 282
+order_cancellation,Cancel order 283
+order_cancellation,I ordered by mistake 284
+order_cancellation,Cancel delivery 285
+order_cancellation,Order cancel asap 286
+order_cancellation,Order rok do 287
+order_cancellation,Cancel purchase 288
+order_cancellation,Cancel my order 289
+order_cancellation,Order cancel karna hai 290
+order_cancellation,Cancel order 291
+order_cancellation,I ordered by mistake 292
+order_cancellation,Cancel delivery 293
+order_cancellation,Order cancel asap 294
+order_cancellation,Order rok do 295
+order_cancellation,Cancel purchase 296
+order_cancellation,Cancel my order 297
+order_cancellation,Order cancel karna hai 298
+order_cancellation,Cancel order 299
+order_cancellation,I ordered by mistake 300
+order_cancellation,Cancel delivery 301
+order_cancellation,Order cancel asap 302
+order_cancellation,Order rok do 303
+order_cancellation,Cancel purchase 304
+order_cancellation,Cancel my order 305
+order_cancellation,Order cancel karna hai 306
+order_cancellation,Cancel order 307
+order_cancellation,I ordered by mistake 308
+order_cancellation,Cancel delivery 309
+order_cancellation,Order cancel asap 310
+order_cancellation,Order rok do 311
+order_cancellation,Cancel purchase 312
+order_cancellation,Cancel my order 313
+order_cancellation,Order cancel karna hai 314
+order_cancellation,Cancel order 315
+order_cancellation,I ordered by mistake 316
+order_cancellation,Cancel delivery 317
+order_cancellation,Order cancel asap 318
+order_cancellation,Order rok do 319
+order_cancellation,Cancel purchase 320
+order_cancellation,Cancel my order 321
+order_cancellation,Order cancel karna hai 322
+order_cancellation,Cancel order 323
+order_cancellation,I ordered by mistake 324
+order_cancellation,Cancel delivery 325
+order_cancellation,Order cancel asap 326
+order_cancellation,Order rok do 327
+order_cancellation,Cancel purchase 328
+order_cancellation,Cancel my order 329
+order_cancellation,Order cancel karna hai 330
+order_cancellation,Cancel order 331
+order_cancellation,I ordered by mistake 332
+order_cancellation,Cancel delivery 333
+order_cancellation,Order cancel asap 334
+order_cancellation,Order rok do 335
+order_cancellation,Cancel purchase 336
+order_cancellation,Cancel my order 337
+order_cancellation,Order cancel karna hai 338
+order_cancellation,Cancel order 339
+order_cancellation,I ordered by mistake 340
+order_cancellation,Cancel delivery 341
+order_cancellation,Order cancel asap 342
+order_cancellation,Order rok do 343
+order_cancellation,Cancel purchase 344
+order_cancellation,Cancel my order 345
+order_cancellation,Order cancel karna hai 346
+order_cancellation,Cancel order 347
+order_cancellation,I ordered by mistake 348
+order_cancellation,Cancel delivery 349
+order_cancellation,Order cancel asap 350
+order_cancellation,Order rok do 351
+order_cancellation,Cancel purchase 352
+order_cancellation,Cancel my order 353
+order_cancellation,Order cancel karna hai 354
+order_cancellation,Cancel order 355
+order_cancellation,I ordered by mistake 356
+order_cancellation,Cancel delivery 357
+order_cancellation,Order cancel asap 358
+order_cancellation,Order rok do 359
+order_cancellation,Cancel purchase 360
+order_cancellation,Cancel my order 361
+order_cancellation,Order cancel karna hai 362
+order_cancellation,Cancel order 363
+order_cancellation,I ordered by mistake 364
+order_cancellation,Cancel delivery 365
+order_cancellation,Order cancel asap 366
+order_cancellation,Order rok do 367
+order_cancellation,Cancel purchase 368
+order_cancellation,Cancel my order 369
+order_cancellation,Order cancel karna hai 370
+order_cancellation,Cancel order 371
+order_cancellation,I ordered by mistake 372
+order_cancellation,Cancel delivery 373
+order_cancellation,Order cancel asap 374
+order_cancellation,Order rok do 375
+order_cancellation,Cancel purchase 376
+order_cancellation,Cancel my order 377
+order_cancellation,Order cancel karna hai 378
+order_cancellation,Cancel order 379
+order_cancellation,I ordered by mistake 380
+order_cancellation,Cancel delivery 381
+order_cancellation,Order cancel asap 382
+order_cancellation,Order rok do 383
+order_cancellation,Cancel purchase 384
+order_cancellation,Cancel my order 385
+order_cancellation,Order cancel karna hai 386
+order_cancellation,Cancel order 387
+order_cancellation,I ordered by mistake 388
+order_cancellation,Cancel delivery 389
+order_cancellation,Order cancel asap 390
+order_cancellation,Order rok do 391
+order_cancellation,Cancel purchase 392
+order_cancellation,Cancel my order 393
+order_cancellation,Order cancel karna hai 394
+order_cancellation,Cancel order 395
+order_cancellation,I ordered by mistake 396
+order_cancellation,Cancel delivery 397
+order_cancellation,Order cancel asap 398
+order_cancellation,Order rok do 399
+order_cancellation,Cancel purchase 400
+order_cancellation,Cancel my order 401
+order_cancellation,Order cancel karna hai 402
+order_cancellation,Cancel order 403
+order_cancellation,I ordered by mistake 404
+order_cancellation,Cancel delivery 405
+order_cancellation,Order cancel asap 406
+order_cancellation,Order rok do 407
+order_cancellation,Cancel purchase 408
+order_cancellation,Cancel my order 409
+order_cancellation,Order cancel karna hai 410
+order_cancellation,Cancel order 411
+order_cancellation,I ordered by mistake 412
+order_cancellation,Cancel delivery 413
+order_cancellation,Order cancel asap 414
+order_cancellation,Order rok do 415
+order_cancellation,Cancel purchase 416
+order_cancellation,Cancel my order 417
+order_cancellation,Order cancel karna hai 418
+order_cancellation,Cancel order 419
+order_cancellation,I ordered by mistake 420
+order_cancellation,Cancel delivery 421
+order_cancellation,Order cancel asap 422
+order_cancellation,Order rok do 423
+order_cancellation,Cancel purchase 424
+order_cancellation,Cancel my order 425
+order_cancellation,Order cancel karna hai 426
+order_cancellation,Cancel order 427
+order_cancellation,I ordered by mistake 428
+order_cancellation,Cancel delivery 429
+order_cancellation,Order cancel asap 430
+order_cancellation,Order rok do 431
+order_cancellation,Cancel purchase 432
+order_cancellation,Cancel my order 433
+order_cancellation,Order cancel karna hai 434
+order_cancellation,Cancel order 435
+order_cancellation,I ordered by mistake 436
+order_cancellation,Cancel delivery 437
+order_cancellation,Order cancel asap 438
+order_cancellation,Order rok do 439
+order_cancellation,Cancel purchase 440
+order_cancellation,Cancel my order 441
+order_cancellation,Order cancel karna hai 442
+order_cancellation,Cancel order 443
+order_cancellation,I ordered by mistake 444
+order_cancellation,Cancel delivery 445
+order_cancellation,Order cancel asap 446
+order_cancellation,Order rok do 447
+order_cancellation,Cancel purchase 448
+order_cancellation,Cancel my order 449
+order_cancellation,Order cancel karna hai 450
+order_cancellation,Cancel order 451
+order_cancellation,I ordered by mistake 452
+order_cancellation,Cancel delivery 453
+order_cancellation,Order cancel asap 454
+order_cancellation,Order rok do 455
+order_cancellation,Cancel purchase 456
+order_cancellation,Cancel my order 457
+order_cancellation,Order cancel karna hai 458
+order_cancellation,Cancel order 459
+order_cancellation,I ordered by mistake 460
+order_cancellation,Cancel delivery 461
+order_cancellation,Order cancel asap 462
+order_cancellation,Order rok do 463
+order_cancellation,Cancel purchase 464
+order_cancellation,Cancel my order 465
+order_cancellation,Order cancel karna hai 466
+order_cancellation,Cancel order 467
+order_cancellation,I ordered by mistake 468
+order_cancellation,Cancel delivery 469
+order_cancellation,Order cancel asap 470
+order_cancellation,Order rok do 471
+order_cancellation,Cancel purchase 472
+order_cancellation,Cancel my order 473
+order_cancellation,Order cancel karna hai 474
+order_cancellation,Cancel order 475
+order_cancellation,I ordered by mistake 476
+order_cancellation,Cancel delivery 477
+order_cancellation,Order cancel asap 478
+order_cancellation,Order rok do 479
+order_cancellation,Cancel purchase 480
+order_cancellation,Cancel my order 481
+order_cancellation,Order cancel karna hai 482
+order_cancellation,Cancel order 483
+order_cancellation,I ordered by mistake 484
+order_cancellation,Cancel delivery 485
+order_cancellation,Order cancel asap 486
+order_cancellation,Order rok do 487
+order_cancellation,Cancel purchase 488
+order_cancellation,Cancel my order 489
+order_cancellation,Order cancel karna hai 490
+order_cancellation,Cancel order 491
+order_cancellation,I ordered by mistake 492
+order_cancellation,Cancel delivery 493
+order_cancellation,Order cancel asap 494
+order_cancellation,Order rok do 495
+order_cancellation,Cancel purchase 496
+order_cancellation,Cancel my order 497
+order_cancellation,Order cancel karna hai 498
+order_cancellation,Cancel order 499
+order_cancellation,I ordered by mistake 500
+order_cancellation,Cancel delivery 501
+order_cancellation,Order cancel asap 502
+order_cancellation,Order rok do 503
+order_cancellation,Cancel purchase 504
+order_cancellation,Cancel my order 505
+order_cancellation,Order cancel karna hai 506
+order_cancellation,Cancel order 507
+order_cancellation,I ordered by mistake 508
+order_cancellation,Cancel delivery 509
+order_cancellation,Order cancel asap 510
+order_cancellation,Order rok do 511
+order_cancellation,Cancel purchase 512
+order_cancellation,Cancel my order 513
+order_cancellation,Order cancel karna hai 514
+order_cancellation,Cancel order 515
+order_cancellation,I ordered by mistake 516
+order_cancellation,Cancel delivery 517
+order_cancellation,Order cancel asap 518
+order_cancellation,Order rok do 519
+order_cancellation,Cancel purchase 520
+order_cancellation,Cancel my order 521
+order_cancellation,Order cancel karna hai 522
+order_cancellation,Cancel order 523
+order_cancellation,I ordered by mistake 524
+order_cancellation,Cancel delivery 525
+order_cancellation,Order cancel asap 526
+order_cancellation,Order rok do 527
+order_cancellation,Cancel purchase 528
+order_cancellation,Cancel my order 529
+order_cancellation,Order cancel karna hai 530
+order_cancellation,Cancel order 531
+order_cancellation,I ordered by mistake 532
+order_cancellation,Cancel delivery 533
+order_cancellation,Order cancel asap 534
+order_cancellation,Order rok do 535
+order_cancellation,Cancel purchase 536
+order_cancellation,Cancel my order 537
+order_cancellation,Order cancel karna hai 538
+order_cancellation,Cancel order 539
+order_cancellation,I ordered by mistake 540
+order_cancellation,Cancel delivery 541
+order_cancellation,Order cancel asap 542
+order_cancellation,Order rok do 543
+order_cancellation,Cancel purchase 544
+order_cancellation,Cancel my order 545
+order_cancellation,Order cancel karna hai 546
+order_cancellation,Cancel order 547
+order_cancellation,I ordered by mistake 548
+order_cancellation,Cancel delivery 549
+order_cancellation,Order cancel asap 550
+order_cancellation,Order rok do 551
+order_cancellation,Cancel purchase 552
+order_cancellation,Cancel my order 553
+order_cancellation,Order cancel karna hai 554
+order_cancellation,Cancel order 555
+order_cancellation,I ordered by mistake 556
+order_cancellation,Cancel delivery 557
+order_cancellation,Order cancel asap 558
+order_cancellation,Order rok do 559
+order_cancellation,Cancel purchase 560
+order_cancellation,Cancel my order 561
+order_cancellation,Order cancel karna hai 562
+order_cancellation,Cancel order 563
+order_cancellation,I ordered by mistake 564
+order_cancellation,Cancel delivery 565
+order_cancellation,Order cancel asap 566
+order_cancellation,Order rok do 567
+order_cancellation,Cancel purchase 568
+order_cancellation,Cancel my order 569
+order_cancellation,Order cancel karna hai 570
+order_cancellation,Cancel order 571
+order_cancellation,I ordered by mistake 572
+order_cancellation,Cancel delivery 573
+order_cancellation,Order cancel asap 574
+order_cancellation,Order rok do 575
+order_cancellation,Cancel purchase 576
+order_cancellation,Cancel my order 577
+order_cancellation,Order cancel karna hai 578
+order_cancellation,Cancel order 579
+order_cancellation,I ordered by mistake 580
+order_cancellation,Cancel delivery 581
+order_cancellation,Order cancel asap 582
+order_cancellation,Order rok do 583
+order_cancellation,Cancel purchase 584
+order_cancellation,Cancel my order 585
+order_cancellation,Order cancel karna hai 586
+order_cancellation,Cancel order 587
+order_cancellation,I ordered by mistake 588
+order_cancellation,Cancel delivery 589
+order_cancellation,Order cancel asap 590
+order_cancellation,Order rok do 591
+order_cancellation,Cancel purchase 592
+order_cancellation,Cancel my order 593
+order_cancellation,Order cancel karna hai 594
+order_cancellation,Cancel order 595
+order_cancellation,I ordered by mistake 596
+order_cancellation,Cancel delivery 597
+order_cancellation,Order cancel asap 598
+order_cancellation,Order rok do 599
+order_cancellation,Cancel purchase 600
+order_cancellation,Cancel my order 601
+order_cancellation,Order cancel karna hai 602
+order_cancellation,Cancel order 603
+order_cancellation,I ordered by mistake 604
+order_cancellation,Cancel delivery 605
+order_cancellation,Order cancel asap 606
+order_cancellation,Order rok do 607
+order_cancellation,Cancel purchase 608
+order_cancellation,Cancel my order 609
+order_cancellation,Order cancel karna hai 610
+order_cancellation,Cancel order 611
+order_cancellation,I ordered by mistake 612
+order_cancellation,Cancel delivery 613
+order_cancellation,Order cancel asap 614
+order_cancellation,Order rok do 615
+order_cancellation,Cancel purchase 616
+order_cancellation,Cancel my order 617
+order_cancellation,Order cancel karna hai 618
+order_cancellation,Cancel order 619
+order_cancellation,I ordered by mistake 620
+order_cancellation,Cancel delivery 621
+order_cancellation,Order cancel asap 622
+order_cancellation,Order rok do 623
+order_cancellation,Cancel purchase 624
+order_cancellation,Cancel my order 625
+order_cancellation,Order cancel karna hai 626
+order_cancellation,Cancel order 627
+order_cancellation,I ordered by mistake 628
+order_cancellation,Cancel delivery 629
+order_cancellation,Order cancel asap 630
+order_cancellation,Order rok do 631
+order_cancellation,Cancel purchase 632
+order_cancellation,Cancel my order 633
+order_cancellation,Order cancel karna hai 634
+order_cancellation,Cancel order 635
+order_cancellation,I ordered by mistake 636
+order_cancellation,Cancel delivery 637
+order_cancellation,Order cancel asap 638
+order_cancellation,Order rok do 639
+order_cancellation,Cancel purchase 640
+order_cancellation,Cancel my order 641
+order_cancellation,Order cancel karna hai 642
+order_cancellation,Cancel order 643
+order_cancellation,I ordered by mistake 644
+order_cancellation,Cancel delivery 645
+order_cancellation,Order cancel asap 646
+order_cancellation,Order rok do 647
+order_cancellation,Cancel purchase 648
+order_cancellation,Cancel my order 649
+order_cancellation,Order cancel karna hai 650
+order_cancellation,Cancel order 651
+order_cancellation,I ordered by mistake 652
+order_cancellation,Cancel delivery 653
+order_cancellation,Order cancel asap 654
+order_cancellation,Order rok do 655
+order_cancellation,Cancel purchase 656
+order_cancellation,Cancel my order 657
+order_cancellation,Order cancel karna hai 658
+order_cancellation,Cancel order 659
+order_cancellation,I ordered by mistake 660
+order_cancellation,Cancel delivery 661
+order_cancellation,Order cancel asap 662
+order_cancellation,Order rok do 663
+order_cancellation,Cancel purchase 664
+order_cancellation,Cancel my order 665
+order_cancellation,Order cancel karna hai 666
+order_cancellation,Cancel order 667
+order_cancellation,I ordered by mistake 668
+order_cancellation,Cancel delivery 669
+order_cancellation,Order cancel asap 670
+order_cancellation,Order rok do 671
+order_cancellation,Cancel purchase 672
+order_cancellation,Cancel my order 673
+order_cancellation,Order cancel karna hai 674
+order_cancellation,Cancel order 675
+order_cancellation,I ordered by mistake 676
+order_cancellation,Cancel delivery 677
+order_cancellation,Order cancel asap 678
+order_cancellation,Order rok do 679
+order_cancellation,Cancel purchase 680
+order_cancellation,Cancel my order 681
+order_cancellation,Order cancel karna hai 682
+order_cancellation,Cancel order 683
+order_cancellation,I ordered by mistake 684
+order_cancellation,Cancel delivery 685
+order_cancellation,Order cancel asap 686
+order_cancellation,Order rok do 687
+order_cancellation,Cancel purchase 688
+order_cancellation,Cancel my order 689
+order_cancellation,Order cancel karna hai 690
+order_cancellation,Cancel order 691
+order_cancellation,I ordered by mistake 692
+order_cancellation,Cancel delivery 693
+order_cancellation,Order cancel asap 694
+order_cancellation,Order rok do 695
+order_cancellation,Cancel purchase 696
+order_cancellation,Cancel my order 697
+order_cancellation,Order cancel karna hai 698
+order_cancellation,Cancel order 699
+order_cancellation,I ordered by mistake 700
+order_cancellation,Cancel delivery 701
+order_cancellation,Order cancel asap 702
+order_cancellation,Order rok do 703
+order_cancellation,Cancel purchase 704
+order_cancellation,Cancel my order 705
+order_cancellation,Order cancel karna hai 706
+order_cancellation,Cancel order 707
+order_cancellation,I ordered by mistake 708
+order_cancellation,Cancel delivery 709
+order_cancellation,Order cancel asap 710
+order_cancellation,Order rok do 711
+order_cancellation,Cancel purchase 712
+order_cancellation,Cancel my order 713
+order_cancellation,Order cancel karna hai 714
+order_cancellation,Cancel order 715
+order_cancellation,I ordered by mistake 716
+order_cancellation,Cancel delivery 717
+order_cancellation,Order cancel asap 718
+order_cancellation,Order rok do 719
+order_cancellation,Cancel purchase 720
+order_cancellation,Cancel my order 721
+order_cancellation,Order cancel karna hai 722
+order_cancellation,Cancel order 723
+order_cancellation,I ordered by mistake 724
+order_cancellation,Cancel delivery 725
+order_cancellation,Order cancel asap 726
+order_cancellation,Order rok do 727
+order_cancellation,Cancel purchase 728
+order_cancellation,Cancel my order 729
+order_cancellation,Order cancel karna hai 730
+order_cancellation,Cancel order 731
+order_cancellation,I ordered by mistake 732
+order_cancellation,Cancel delivery 733
+order_cancellation,Order cancel asap 734
+order_cancellation,Order rok do 735
+order_cancellation,Cancel purchase 736
+order_cancellation,Cancel my order 737
+order_cancellation,Order cancel karna hai 738
+order_cancellation,Cancel order 739
+order_cancellation,I ordered by mistake 740
+order_cancellation,Cancel delivery 741
+order_cancellation,Order cancel asap 742
+order_cancellation,Order rok do 743
+order_cancellation,Cancel purchase 744
+order_cancellation,Cancel my order 745
+order_cancellation,Order cancel karna hai 746
+order_cancellation,Cancel order 747
+order_cancellation,I ordered by mistake 748
+order_cancellation,Cancel delivery 749
+order_cancellation,Order cancel asap 750
+order_cancellation,Order rok do 751
+order_cancellation,Cancel purchase 752
+order_cancellation,Cancel my order 753
+order_cancellation,Order cancel karna hai 754
+order_cancellation,Cancel order 755
+order_cancellation,I ordered by mistake 756
+order_cancellation,Cancel delivery 757
+order_cancellation,Order cancel asap 758
+order_cancellation,Order rok do 759
+order_cancellation,Cancel purchase 760
+order_cancellation,Cancel my order 761
+order_cancellation,Order cancel karna hai 762
+order_cancellation,Cancel order 763
+order_cancellation,I ordered by mistake 764
+order_cancellation,Cancel delivery 765
+order_cancellation,Order cancel asap 766
+order_cancellation,Order rok do 767
+order_cancellation,Cancel purchase 768
+order_cancellation,Cancel my order 769
+order_cancellation,Order cancel karna hai 770
+order_cancellation,Cancel order 771
+order_cancellation,I ordered by mistake 772
+order_cancellation,Cancel delivery 773
+order_cancellation,Order cancel asap 774
+order_cancellation,Order rok do 775
+order_cancellation,Cancel purchase 776
+order_cancellation,Cancel my order 777
+order_cancellation,Order cancel karna hai 778
+order_cancellation,Cancel order 779
+order_cancellation,I ordered by mistake 780
+order_cancellation,Cancel delivery 781
+order_cancellation,Order cancel asap 782
+order_cancellation,Order rok do 783
+order_cancellation,Cancel purchase 784
+order_cancellation,Cancel my order 785
+order_cancellation,Order cancel karna hai 786
+order_cancellation,Cancel order 787
+order_cancellation,I ordered by mistake 788
+order_cancellation,Cancel delivery 789
+order_cancellation,Order cancel asap 790
+order_cancellation,Order rok do 791
+order_cancellation,Cancel purchase 792
+order_cancellation,Cancel my order 793
+order_cancellation,Order cancel karna hai 794
+order_cancellation,Cancel order 795
+order_cancellation,I ordered by mistake 796
+order_cancellation,Cancel delivery 797
+order_cancellation,Order cancel asap 798
+order_cancellation,Order rok do 799
+order_cancellation,Cancel purchase 800
+order_cancellation,Cancel my order 801
+order_cancellation,Order cancel karna hai 802
+order_cancellation,Cancel order 803
+order_cancellation,I ordered by mistake 804
+order_cancellation,Cancel delivery 805
+order_cancellation,Order cancel asap 806
+order_cancellation,Order rok do 807
+order_cancellation,Cancel purchase 808
+order_cancellation,Cancel my order 809
+order_cancellation,Order cancel karna hai 810
+order_cancellation,Cancel order 811
+order_cancellation,I ordered by mistake 812
+order_cancellation,Cancel delivery 813
+order_cancellation,Order cancel asap 814
+order_cancellation,Order rok do 815
+order_cancellation,Cancel purchase 816
+order_cancellation,Cancel my order 817
+order_cancellation,Order cancel karna hai 818
+order_cancellation,Cancel order 819
+order_cancellation,I ordered by mistake 820
+order_cancellation,Cancel delivery 821
+order_cancellation,Order cancel asap 822
+order_cancellation,Order rok do 823
+order_cancellation,Cancel purchase 824
+order_cancellation,Cancel my order 825
+order_cancellation,Order cancel karna hai 826
+order_cancellation,Cancel order 827
+order_cancellation,I ordered by mistake 828
+order_cancellation,Cancel delivery 829
+order_cancellation,Order cancel asap 830
+order_cancellation,Order rok do 831
+order_cancellation,Cancel purchase 832
+order_cancellation,Cancel my order 833
+order_cancellation,Order cancel karna hai 834
+order_cancellation,Cancel order 835
+order_cancellation,I ordered by mistake 836
+order_cancellation,Cancel delivery 837
+order_cancellation,Order cancel asap 838
+order_cancellation,Order rok do 839
+order_cancellation,Cancel purchase 840
+order_cancellation,Cancel my order 841
+order_cancellation,Order cancel karna hai 842
+order_cancellation,Cancel order 843
+order_cancellation,I ordered by mistake 844
+order_cancellation,Cancel delivery 845
+order_cancellation,Order cancel asap 846
+order_cancellation,Order rok do 847
+order_cancellation,Cancel purchase 848
+order_cancellation,Cancel my order 849
+order_cancellation,Order cancel karna hai 850
+order_cancellation,Cancel order 851
+order_cancellation,I ordered by mistake 852
+order_cancellation,Cancel delivery 853
+order_cancellation,Order cancel asap 854
+order_cancellation,Order rok do 855
+order_cancellation,Cancel purchase 856
+order_cancellation,Cancel my order 857
+order_cancellation,Order cancel karna hai 858
+order_cancellation,Cancel order 859
+order_cancellation,I ordered by mistake 860
+order_cancellation,Cancel delivery 861
+order_cancellation,Order cancel asap 862
+order_cancellation,Order rok do 863
+order_cancellation,Cancel purchase 864
+order_cancellation,Cancel my order 865
+order_cancellation,Order cancel karna hai 866
+order_cancellation,Cancel order 867
+order_cancellation,I ordered by mistake 868
+order_cancellation,Cancel delivery 869
+order_cancellation,Order cancel asap 870
+order_cancellation,Order rok do 871
+order_cancellation,Cancel purchase 872
+order_cancellation,Cancel my order 873
+order_cancellation,Order cancel karna hai 874
+order_cancellation,Cancel order 875
+order_cancellation,I ordered by mistake 876
+order_cancellation,Cancel delivery 877
+order_cancellation,Order cancel asap 878
+order_cancellation,Order rok do 879
+order_cancellation,Cancel purchase 880
+order_cancellation,Cancel my order 881
+order_cancellation,Order cancel karna hai 882
+order_cancellation,Cancel order 883
+order_cancellation,I ordered by mistake 884
+order_cancellation,Cancel delivery 885
+order_cancellation,Order cancel asap 886
+order_cancellation,Order rok do 887
+order_cancellation,Cancel purchase 888
+order_cancellation,Cancel my order 889
+order_cancellation,Order cancel karna hai 890
+order_cancellation,Cancel order 891
+order_cancellation,I ordered by mistake 892
+order_cancellation,Cancel delivery 893
+order_cancellation,Order cancel asap 894
+order_cancellation,Order rok do 895
+order_cancellation,Cancel purchase 896
+order_cancellation,Cancel my order 897
+order_cancellation,Order cancel karna hai 898
+order_cancellation,Cancel order 899
+order_cancellation,I ordered by mistake 900
+order_cancellation,Cancel delivery 901
+order_cancellation,Order cancel asap 902
+order_cancellation,Order rok do 903
+order_cancellation,Cancel purchase 904
+order_cancellation,Cancel my order 905
+order_cancellation,Order cancel karna hai 906
+order_cancellation,Cancel order 907
+order_cancellation,I ordered by mistake 908
+order_cancellation,Cancel delivery 909
+order_cancellation,Order cancel asap 910
+order_cancellation,Order rok do 911
+order_cancellation,Cancel purchase 912
+order_cancellation,Cancel my order 913
+order_cancellation,Order cancel karna hai 914
+order_cancellation,Cancel order 915
+order_cancellation,I ordered by mistake 916
+order_cancellation,Cancel delivery 917
+order_cancellation,Order cancel asap 918
+order_cancellation,Order rok do 919
+order_cancellation,Cancel purchase 920
+order_cancellation,Cancel my order 921
+order_cancellation,Order cancel karna hai 922
+order_cancellation,Cancel order 923
+order_cancellation,I ordered by mistake 924
+order_cancellation,Cancel delivery 925
+order_cancellation,Order cancel asap 926
+order_cancellation,Order rok do 927
+order_cancellation,Cancel purchase 928
+order_cancellation,Cancel my order 929
+order_cancellation,Order cancel karna hai 930
+order_cancellation,Cancel order 931
+order_cancellation,I ordered by mistake 932
+order_cancellation,Cancel delivery 933
+order_cancellation,Order cancel asap 934
+order_cancellation,Order rok do 935
+order_cancellation,Cancel purchase 936
+order_cancellation,Cancel my order 937
+order_cancellation,Order cancel karna hai 938
+order_cancellation,Cancel order 939
+order_cancellation,I ordered by mistake 940
+order_cancellation,Cancel delivery 941
+order_cancellation,Order cancel asap 942
+order_cancellation,Order rok do 943
+order_cancellation,Cancel purchase 944
+order_cancellation,Cancel my order 945
+order_cancellation,Order cancel karna hai 946
+order_cancellation,Cancel order 947
+order_cancellation,I ordered by mistake 948
+order_cancellation,Cancel delivery 949
+order_cancellation,Order cancel asap 950
+order_cancellation,Order rok do 951
+order_cancellation,Cancel purchase 952
+order_cancellation,Cancel my order 953
+order_cancellation,Order cancel karna hai 954
+order_cancellation,Cancel order 955
+order_cancellation,I ordered by mistake 956
+order_cancellation,Cancel delivery 957
+order_cancellation,Order cancel asap 958
+order_cancellation,Order rok do 959
+order_cancellation,Cancel purchase 960
+order_cancellation,Cancel my order 961
+order_cancellation,Order cancel karna hai 962
+order_cancellation,Cancel order 963
+order_cancellation,I ordered by mistake 964
+order_cancellation,Cancel delivery 965
+order_cancellation,Order cancel asap 966
+order_cancellation,Order rok do 967
+order_cancellation,Cancel purchase 968
+order_cancellation,Cancel my order 969
+order_cancellation,Order cancel karna hai 970
+order_cancellation,Cancel order 971
+order_cancellation,I ordered by mistake 972
+order_cancellation,Cancel delivery 973
+order_cancellation,Order cancel asap 974
+order_cancellation,Order rok do 975
+order_cancellation,Cancel purchase 976
+order_cancellation,Cancel my order 977
+order_cancellation,Order cancel karna hai 978
+order_cancellation,Cancel order 979
+order_cancellation,I ordered by mistake 980
+order_cancellation,Cancel delivery 981
+order_cancellation,Order cancel asap 982
+order_cancellation,Order rok do 983
+order_cancellation,Cancel purchase 984
+order_cancellation,Cancel my order 985
+order_cancellation,Order cancel karna hai 986
+order_cancellation,Cancel order 987
+order_cancellation,I ordered by mistake 988
+order_cancellation,Cancel delivery 989
+order_cancellation,Order cancel asap 990
+order_cancellation,Order rok do 991
+order_cancellation,Cancel purchase 992
+order_cancellation,Cancel my order 993
+order_cancellation,Order cancel karna hai 994
+order_cancellation,Cancel order 995
+order_cancellation,I ordered by mistake 996
+order_cancellation,Cancel delivery 997
+order_cancellation,Order cancel asap 998
+order_cancellation,Order rok do 999
+order_cancellation,Cancel purchase 1000
+technical_issue,App not working 1
+technical_issue,Login issue 2
+technical_issue,Payment failed 3
+technical_issue,Website crashing 4
+technical_issue,App slow 5
+technical_issue,Technical problem 6
+technical_issue,System error 7
+technical_issue,App crash 8
+technical_issue,App not working 9
+technical_issue,Login issue 10
+technical_issue,Payment failed 11
+technical_issue,Website crashing 12
+technical_issue,App slow 13
+technical_issue,Technical problem 14
+technical_issue,System error 15
+technical_issue,App crash 16
+technical_issue,App not working 17
+technical_issue,Login issue 18
+technical_issue,Payment failed 19
+technical_issue,Website crashing 20
+technical_issue,App slow 21
+technical_issue,Technical problem 22
+technical_issue,System error 23
+technical_issue,App crash 24
+technical_issue,App not working 25
+technical_issue,Login issue 26
+technical_issue,Payment failed 27
+technical_issue,Website crashing 28
+technical_issue,App slow 29
+technical_issue,Technical problem 30
+technical_issue,System error 31
+technical_issue,App crash 32
+technical_issue,App not working 33
+technical_issue,Login issue 34
+technical_issue,Payment failed 35
+technical_issue,Website crashing 36
+technical_issue,App slow 37
+technical_issue,Technical problem 38
+technical_issue,System error 39
+technical_issue,App crash 40
+technical_issue,App not working 41
+technical_issue,Login issue 42
+technical_issue,Payment failed 43
+technical_issue,Website crashing 44
+technical_issue,App slow 45
+technical_issue,Technical problem 46
+technical_issue,System error 47
+technical_issue,App crash 48
+technical_issue,App not working 49
+technical_issue,Login issue 50
+technical_issue,Payment failed 51
+technical_issue,Website crashing 52
+technical_issue,App slow 53
+technical_issue,Technical problem 54
+technical_issue,System error 55
+technical_issue,App crash 56
+technical_issue,App not working 57
+technical_issue,Login issue 58
+technical_issue,Payment failed 59
+technical_issue,Website crashing 60
+technical_issue,App slow 61
+technical_issue,Technical problem 62
+technical_issue,System error 63
+technical_issue,App crash 64
+technical_issue,App not working 65
+technical_issue,Login issue 66
+technical_issue,Payment failed 67
+technical_issue,Website crashing 68
+technical_issue,App slow 69
+technical_issue,Technical problem 70
+technical_issue,System error 71
+technical_issue,App crash 72
+technical_issue,App not working 73
+technical_issue,Login issue 74
+technical_issue,Payment failed 75
+technical_issue,Website crashing 76
+technical_issue,App slow 77
+technical_issue,Technical problem 78
+technical_issue,System error 79
+technical_issue,App crash 80
+technical_issue,App not working 81
+technical_issue,Login issue 82
+technical_issue,Payment failed 83
+technical_issue,Website crashing 84
+technical_issue,App slow 85
+technical_issue,Technical problem 86
+technical_issue,System error 87
+technical_issue,App crash 88
+technical_issue,App not working 89
+technical_issue,Login issue 90
+technical_issue,Payment failed 91
+technical_issue,Website crashing 92
+technical_issue,App slow 93
+technical_issue,Technical problem 94
+technical_issue,System error 95
+technical_issue,App crash 96
+technical_issue,App not working 97
+technical_issue,Login issue 98
+technical_issue,Payment failed 99
+technical_issue,Website crashing 100
+technical_issue,App slow 101
+technical_issue,Technical problem 102
+technical_issue,System error 103
+technical_issue,App crash 104
+technical_issue,App not working 105
+technical_issue,Login issue 106
+technical_issue,Payment failed 107
+technical_issue,Website crashing 108
+technical_issue,App slow 109
+technical_issue,Technical problem 110
+technical_issue,System error 111
+technical_issue,App crash 112
+technical_issue,App not working 113
+technical_issue,Login issue 114
+technical_issue,Payment failed 115
+technical_issue,Website crashing 116
+technical_issue,App slow 117
+technical_issue,Technical problem 118
+technical_issue,System error 119
+technical_issue,App crash 120
+technical_issue,App not working 121
+technical_issue,Login issue 122
+technical_issue,Payment failed 123
+technical_issue,Website crashing 124
+technical_issue,App slow 125
+technical_issue,Technical problem 126
+technical_issue,System error 127
+technical_issue,App crash 128
+technical_issue,App not working 129
+technical_issue,Login issue 130
+technical_issue,Payment failed 131
+technical_issue,Website crashing 132
+technical_issue,App slow 133
+technical_issue,Technical problem 134
+technical_issue,System error 135
+technical_issue,App crash 136
+technical_issue,App not working 137
+technical_issue,Login issue 138
+technical_issue,Payment failed 139
+technical_issue,Website crashing 140
+technical_issue,App slow 141
+technical_issue,Technical problem 142
+technical_issue,System error 143
+technical_issue,App crash 144
+technical_issue,App not working 145
+technical_issue,Login issue 146
+technical_issue,Payment failed 147
+technical_issue,Website crashing 148
+technical_issue,App slow 149
+technical_issue,Technical problem 150
+technical_issue,System error 151
+technical_issue,App crash 152
+technical_issue,App not working 153
+technical_issue,Login issue 154
+technical_issue,Payment failed 155
+technical_issue,Website crashing 156
+technical_issue,App slow 157
+technical_issue,Technical problem 158
+technical_issue,System error 159
+technical_issue,App crash 160
+technical_issue,App not working 161
+technical_issue,Login issue 162
+technical_issue,Payment failed 163
+technical_issue,Website crashing 164
+technical_issue,App slow 165
+technical_issue,Technical problem 166
+technical_issue,System error 167
+technical_issue,App crash 168
+technical_issue,App not working 169
+technical_issue,Login issue 170
+technical_issue,Payment failed 171
+technical_issue,Website crashing 172
+technical_issue,App slow 173
+technical_issue,Technical problem 174
+technical_issue,System error 175
+technical_issue,App crash 176
+technical_issue,App not working 177
+technical_issue,Login issue 178
+technical_issue,Payment failed 179
+technical_issue,Website crashing 180
+technical_issue,App slow 181
+technical_issue,Technical problem 182
+technical_issue,System error 183
+technical_issue,App crash 184
+technical_issue,App not working 185
+technical_issue,Login issue 186
+technical_issue,Payment failed 187
+technical_issue,Website crashing 188
+technical_issue,App slow 189
+technical_issue,Technical problem 190
+technical_issue,System error 191
+technical_issue,App crash 192
+technical_issue,App not working 193
+technical_issue,Login issue 194
+technical_issue,Payment failed 195
+technical_issue,Website crashing 196
+technical_issue,App slow 197
+technical_issue,Technical problem 198
+technical_issue,System error 199
+technical_issue,App crash 200
+technical_issue,App not working 201
+technical_issue,Login issue 202
+technical_issue,Payment failed 203
+technical_issue,Website crashing 204
+technical_issue,App slow 205
+technical_issue,Technical problem 206
+technical_issue,System error 207
+technical_issue,App crash 208
+technical_issue,App not working 209
+technical_issue,Login issue 210
+technical_issue,Payment failed 211
+technical_issue,Website crashing 212
+technical_issue,App slow 213
+technical_issue,Technical problem 214
+technical_issue,System error 215
+technical_issue,App crash 216
+technical_issue,App not working 217
+technical_issue,Login issue 218
+technical_issue,Payment failed 219
+technical_issue,Website crashing 220
+technical_issue,App slow 221
+technical_issue,Technical problem 222
+technical_issue,System error 223
+technical_issue,App crash 224
+technical_issue,App not working 225
+technical_issue,Login issue 226
+technical_issue,Payment failed 227
+technical_issue,Website crashing 228
+technical_issue,App slow 229
+technical_issue,Technical problem 230
+technical_issue,System error 231
+technical_issue,App crash 232
+technical_issue,App not working 233
+technical_issue,Login issue 234
+technical_issue,Payment failed 235
+technical_issue,Website crashing 236
+technical_issue,App slow 237
+technical_issue,Technical problem 238
+technical_issue,System error 239
+technical_issue,App crash 240
+technical_issue,App not working 241
+technical_issue,Login issue 242
+technical_issue,Payment failed 243
+technical_issue,Website crashing 244
+technical_issue,App slow 245
+technical_issue,Technical problem 246
+technical_issue,System error 247
+technical_issue,App crash 248
+technical_issue,App not working 249
+technical_issue,Login issue 250
+technical_issue,Payment failed 251
+technical_issue,Website crashing 252
+technical_issue,App slow 253
+technical_issue,Technical problem 254
+technical_issue,System error 255
+technical_issue,App crash 256
+technical_issue,App not working 257
+technical_issue,Login issue 258
+technical_issue,Payment failed 259
+technical_issue,Website crashing 260
+technical_issue,App slow 261
+technical_issue,Technical problem 262
+technical_issue,System error 263
+technical_issue,App crash 264
+technical_issue,App not working 265
+technical_issue,Login issue 266
+technical_issue,Payment failed 267
+technical_issue,Website crashing 268
+technical_issue,App slow 269
+technical_issue,Technical problem 270
+technical_issue,System error 271
+technical_issue,App crash 272
+technical_issue,App not working 273
+technical_issue,Login issue 274
+technical_issue,Payment failed 275
+technical_issue,Website crashing 276
+technical_issue,App slow 277
+technical_issue,Technical problem 278
+technical_issue,System error 279
+technical_issue,App crash 280
+technical_issue,App not working 281
+technical_issue,Login issue 282
+technical_issue,Payment failed 283
+technical_issue,Website crashing 284
+technical_issue,App slow 285
+technical_issue,Technical problem 286
+technical_issue,System error 287
+technical_issue,App crash 288
+technical_issue,App not working 289
+technical_issue,Login issue 290
+technical_issue,Payment failed 291
+technical_issue,Website crashing 292
+technical_issue,App slow 293
+technical_issue,Technical problem 294
+technical_issue,System error 295
+technical_issue,App crash 296
+technical_issue,App not working 297
+technical_issue,Login issue 298
+technical_issue,Payment failed 299
+technical_issue,Website crashing 300
+technical_issue,App slow 301
+technical_issue,Technical problem 302
+technical_issue,System error 303
+technical_issue,App crash 304
+technical_issue,App not working 305
+technical_issue,Login issue 306
+technical_issue,Payment failed 307
+technical_issue,Website crashing 308
+technical_issue,App slow 309
+technical_issue,Technical problem 310
+technical_issue,System error 311
+technical_issue,App crash 312
+technical_issue,App not working 313
+technical_issue,Login issue 314
+technical_issue,Payment failed 315
+technical_issue,Website crashing 316
+technical_issue,App slow 317
+technical_issue,Technical problem 318
+technical_issue,System error 319
+technical_issue,App crash 320
+technical_issue,App not working 321
+technical_issue,Login issue 322
+technical_issue,Payment failed 323
+technical_issue,Website crashing 324
+technical_issue,App slow 325
+technical_issue,Technical problem 326
+technical_issue,System error 327
+technical_issue,App crash 328
+technical_issue,App not working 329
+technical_issue,Login issue 330
+technical_issue,Payment failed 331
+technical_issue,Website crashing 332
+technical_issue,App slow 333
+technical_issue,Technical problem 334
+technical_issue,System error 335
+technical_issue,App crash 336
+technical_issue,App not working 337
+technical_issue,Login issue 338
+technical_issue,Payment failed 339
+technical_issue,Website crashing 340
+technical_issue,App slow 341
+technical_issue,Technical problem 342
+technical_issue,System error 343
+technical_issue,App crash 344
+technical_issue,App not working 345
+technical_issue,Login issue 346
+technical_issue,Payment failed 347
+technical_issue,Website crashing 348
+technical_issue,App slow 349
+technical_issue,Technical problem 350
+technical_issue,System error 351
+technical_issue,App crash 352
+technical_issue,App not working 353
+technical_issue,Login issue 354
+technical_issue,Payment failed 355
+technical_issue,Website crashing 356
+technical_issue,App slow 357
+technical_issue,Technical problem 358
+technical_issue,System error 359
+technical_issue,App crash 360
+technical_issue,App not working 361
+technical_issue,Login issue 362
+technical_issue,Payment failed 363
+technical_issue,Website crashing 364
+technical_issue,App slow 365
+technical_issue,Technical problem 366
+technical_issue,System error 367
+technical_issue,App crash 368
+technical_issue,App not working 369
+technical_issue,Login issue 370
+technical_issue,Payment failed 371
+technical_issue,Website crashing 372
+technical_issue,App slow 373
+technical_issue,Technical problem 374
+technical_issue,System error 375
+technical_issue,App crash 376
+technical_issue,App not working 377
+technical_issue,Login issue 378
+technical_issue,Payment failed 379
+technical_issue,Website crashing 380
+technical_issue,App slow 381
+technical_issue,Technical problem 382
+technical_issue,System error 383
+technical_issue,App crash 384
+technical_issue,App not working 385
+technical_issue,Login issue 386
+technical_issue,Payment failed 387
+technical_issue,Website crashing 388
+technical_issue,App slow 389
+technical_issue,Technical problem 390
+technical_issue,System error 391
+technical_issue,App crash 392
+technical_issue,App not working 393
+technical_issue,Login issue 394
+technical_issue,Payment failed 395
+technical_issue,Website crashing 396
+technical_issue,App slow 397
+technical_issue,Technical problem 398
+technical_issue,System error 399
+technical_issue,App crash 400
+technical_issue,App not working 401
+technical_issue,Login issue 402
+technical_issue,Payment failed 403
+technical_issue,Website crashing 404
+technical_issue,App slow 405
+technical_issue,Technical problem 406
+technical_issue,System error 407
+technical_issue,App crash 408
+technical_issue,App not working 409
+technical_issue,Login issue 410
+technical_issue,Payment failed 411
+technical_issue,Website crashing 412
+technical_issue,App slow 413
+technical_issue,Technical problem 414
+technical_issue,System error 415
+technical_issue,App crash 416
+technical_issue,App not working 417
+technical_issue,Login issue 418
+technical_issue,Payment failed 419
+technical_issue,Website crashing 420
+technical_issue,App slow 421
+technical_issue,Technical problem 422
+technical_issue,System error 423
+technical_issue,App crash 424
+technical_issue,App not working 425
+technical_issue,Login issue 426
+technical_issue,Payment failed 427
+technical_issue,Website crashing 428
+technical_issue,App slow 429
+technical_issue,Technical problem 430
+technical_issue,System error 431
+technical_issue,App crash 432
+technical_issue,App not working 433
+technical_issue,Login issue 434
+technical_issue,Payment failed 435
+technical_issue,Website crashing 436
+technical_issue,App slow 437
+technical_issue,Technical problem 438
+technical_issue,System error 439
+technical_issue,App crash 440
+technical_issue,App not working 441
+technical_issue,Login issue 442
+technical_issue,Payment failed 443
+technical_issue,Website crashing 444
+technical_issue,App slow 445
+technical_issue,Technical problem 446
+technical_issue,System error 447
+technical_issue,App crash 448
+technical_issue,App not working 449
+technical_issue,Login issue 450
+technical_issue,Payment failed 451
+technical_issue,Website crashing 452
+technical_issue,App slow 453
+technical_issue,Technical problem 454
+technical_issue,System error 455
+technical_issue,App crash 456
+technical_issue,App not working 457
+technical_issue,Login issue 458
+technical_issue,Payment failed 459
+technical_issue,Website crashing 460
+technical_issue,App slow 461
+technical_issue,Technical problem 462
+technical_issue,System error 463
+technical_issue,App crash 464
+technical_issue,App not working 465
+technical_issue,Login issue 466
+technical_issue,Payment failed 467
+technical_issue,Website crashing 468
+technical_issue,App slow 469
+technical_issue,Technical problem 470
+technical_issue,System error 471
+technical_issue,App crash 472
+technical_issue,App not working 473
+technical_issue,Login issue 474
+technical_issue,Payment failed 475
+technical_issue,Website crashing 476
+technical_issue,App slow 477
+technical_issue,Technical problem 478
+technical_issue,System error 479
+technical_issue,App crash 480
+technical_issue,App not working 481
+technical_issue,Login issue 482
+technical_issue,Payment failed 483
+technical_issue,Website crashing 484
+technical_issue,App slow 485
+technical_issue,Technical problem 486
+technical_issue,System error 487
+technical_issue,App crash 488
+technical_issue,App not working 489
+technical_issue,Login issue 490
+technical_issue,Payment failed 491
+technical_issue,Website crashing 492
+technical_issue,App slow 493
+technical_issue,Technical problem 494
+technical_issue,System error 495
+technical_issue,App crash 496
+technical_issue,App not working 497
+technical_issue,Login issue 498
+technical_issue,Payment failed 499
+technical_issue,Website crashing 500
+technical_issue,App slow 501
+technical_issue,Technical problem 502
+technical_issue,System error 503
+technical_issue,App crash 504
+technical_issue,App not working 505
+technical_issue,Login issue 506
+technical_issue,Payment failed 507
+technical_issue,Website crashing 508
+technical_issue,App slow 509
+technical_issue,Technical problem 510
+technical_issue,System error 511
+technical_issue,App crash 512
+technical_issue,App not working 513
+technical_issue,Login issue 514
+technical_issue,Payment failed 515
+technical_issue,Website crashing 516
+technical_issue,App slow 517
+technical_issue,Technical problem 518
+technical_issue,System error 519
+technical_issue,App crash 520
+technical_issue,App not working 521
+technical_issue,Login issue 522
+technical_issue,Payment failed 523
+technical_issue,Website crashing 524
+technical_issue,App slow 525
+technical_issue,Technical problem 526
+technical_issue,System error 527
+technical_issue,App crash 528
+technical_issue,App not working 529
+technical_issue,Login issue 530
+technical_issue,Payment failed 531
+technical_issue,Website crashing 532
+technical_issue,App slow 533
+technical_issue,Technical problem 534
+technical_issue,System error 535
+technical_issue,App crash 536
+technical_issue,App not working 537
+technical_issue,Login issue 538
+technical_issue,Payment failed 539
+technical_issue,Website crashing 540
+technical_issue,App slow 541
+technical_issue,Technical problem 542
+technical_issue,System error 543
+technical_issue,App crash 544
+technical_issue,App not working 545
+technical_issue,Login issue 546
+technical_issue,Payment failed 547
+technical_issue,Website crashing 548
+technical_issue,App slow 549
+technical_issue,Technical problem 550
+technical_issue,System error 551
+technical_issue,App crash 552
+technical_issue,App not working 553
+technical_issue,Login issue 554
+technical_issue,Payment failed 555
+technical_issue,Website crashing 556
+technical_issue,App slow 557
+technical_issue,Technical problem 558
+technical_issue,System error 559
+technical_issue,App crash 560
+technical_issue,App not working 561
+technical_issue,Login issue 562
+technical_issue,Payment failed 563
+technical_issue,Website crashing 564
+technical_issue,App slow 565
+technical_issue,Technical problem 566
+technical_issue,System error 567
+technical_issue,App crash 568
+technical_issue,App not working 569
+technical_issue,Login issue 570
+technical_issue,Payment failed 571
+technical_issue,Website crashing 572
+technical_issue,App slow 573
+technical_issue,Technical problem 574
+technical_issue,System error 575
+technical_issue,App crash 576
+technical_issue,App not working 577
+technical_issue,Login issue 578
+technical_issue,Payment failed 579
+technical_issue,Website crashing 580
+technical_issue,App slow 581
+technical_issue,Technical problem 582
+technical_issue,System error 583
+technical_issue,App crash 584
+technical_issue,App not working 585
+technical_issue,Login issue 586
+technical_issue,Payment failed 587
+technical_issue,Website crashing 588
+technical_issue,App slow 589
+technical_issue,Technical problem 590
+technical_issue,System error 591
+technical_issue,App crash 592
+technical_issue,App not working 593
+technical_issue,Login issue 594
+technical_issue,Payment failed 595
+technical_issue,Website crashing 596
+technical_issue,App slow 597
+technical_issue,Technical problem 598
+technical_issue,System error 599
+technical_issue,App crash 600
+technical_issue,App not working 601
+technical_issue,Login issue 602
+technical_issue,Payment failed 603
+technical_issue,Website crashing 604
+technical_issue,App slow 605
+technical_issue,Technical problem 606
+technical_issue,System error 607
+technical_issue,App crash 608
+technical_issue,App not working 609
+technical_issue,Login issue 610
+technical_issue,Payment failed 611
+technical_issue,Website crashing 612
+technical_issue,App slow 613
+technical_issue,Technical problem 614
+technical_issue,System error 615
+technical_issue,App crash 616
+technical_issue,App not working 617
+technical_issue,Login issue 618
+technical_issue,Payment failed 619
+technical_issue,Website crashing 620
+technical_issue,App slow 621
+technical_issue,Technical problem 622
+technical_issue,System error 623
+technical_issue,App crash 624
+technical_issue,App not working 625
+technical_issue,Login issue 626
+technical_issue,Payment failed 627
+technical_issue,Website crashing 628
+technical_issue,App slow 629
+technical_issue,Technical problem 630
+technical_issue,System error 631
+technical_issue,App crash 632
+technical_issue,App not working 633
+technical_issue,Login issue 634
+technical_issue,Payment failed 635
+technical_issue,Website crashing 636
+technical_issue,App slow 637
+technical_issue,Technical problem 638
+technical_issue,System error 639
+technical_issue,App crash 640
+technical_issue,App not working 641
+technical_issue,Login issue 642
+technical_issue,Payment failed 643
+technical_issue,Website crashing 644
+technical_issue,App slow 645
+technical_issue,Technical problem 646
+technical_issue,System error 647
+technical_issue,App crash 648
+technical_issue,App not working 649
+technical_issue,Login issue 650
+technical_issue,Payment failed 651
+technical_issue,Website crashing 652
+technical_issue,App slow 653
+technical_issue,Technical problem 654
+technical_issue,System error 655
+technical_issue,App crash 656
+technical_issue,App not working 657
+technical_issue,Login issue 658
+technical_issue,Payment failed 659
+technical_issue,Website crashing 660
+technical_issue,App slow 661
+technical_issue,Technical problem 662
+technical_issue,System error 663
+technical_issue,App crash 664
+technical_issue,App not working 665
+technical_issue,Login issue 666
+technical_issue,Payment failed 667
+technical_issue,Website crashing 668
+technical_issue,App slow 669
+technical_issue,Technical problem 670
+technical_issue,System error 671
+technical_issue,App crash 672
+technical_issue,App not working 673
+technical_issue,Login issue 674
+technical_issue,Payment failed 675
+technical_issue,Website crashing 676
+technical_issue,App slow 677
+technical_issue,Technical problem 678
+technical_issue,System error 679
+technical_issue,App crash 680
+technical_issue,App not working 681
+technical_issue,Login issue 682
+technical_issue,Payment failed 683
+technical_issue,Website crashing 684
+technical_issue,App slow 685
+technical_issue,Technical problem 686
+technical_issue,System error 687
+technical_issue,App crash 688
+technical_issue,App not working 689
+technical_issue,Login issue 690
+technical_issue,Payment failed 691
+technical_issue,Website crashing 692
+technical_issue,App slow 693
+technical_issue,Technical problem 694
+technical_issue,System error 695
+technical_issue,App crash 696
+technical_issue,App not working 697
+technical_issue,Login issue 698
+technical_issue,Payment failed 699
+technical_issue,Website crashing 700
+technical_issue,App slow 701
+technical_issue,Technical problem 702
+technical_issue,System error 703
+technical_issue,App crash 704
+technical_issue,App not working 705
+technical_issue,Login issue 706
+technical_issue,Payment failed 707
+technical_issue,Website crashing 708
+technical_issue,App slow 709
+technical_issue,Technical problem 710
+technical_issue,System error 711
+technical_issue,App crash 712
+technical_issue,App not working 713
+technical_issue,Login issue 714
+technical_issue,Payment failed 715
+technical_issue,Website crashing 716
+technical_issue,App slow 717
+technical_issue,Technical problem 718
+technical_issue,System error 719
+technical_issue,App crash 720
+technical_issue,App not working 721
+technical_issue,Login issue 722
+technical_issue,Payment failed 723
+technical_issue,Website crashing 724
+technical_issue,App slow 725
+technical_issue,Technical problem 726
+technical_issue,System error 727
+technical_issue,App crash 728
+technical_issue,App not working 729
+technical_issue,Login issue 730
+technical_issue,Payment failed 731
+technical_issue,Website crashing 732
+technical_issue,App slow 733
+technical_issue,Technical problem 734
+technical_issue,System error 735
+technical_issue,App crash 736
+technical_issue,App not working 737
+technical_issue,Login issue 738
+technical_issue,Payment failed 739
+technical_issue,Website crashing 740
+technical_issue,App slow 741
+technical_issue,Technical problem 742
+technical_issue,System error 743
+technical_issue,App crash 744
+technical_issue,App not working 745
+technical_issue,Login issue 746
+technical_issue,Payment failed 747
+technical_issue,Website crashing 748
+technical_issue,App slow 749
+technical_issue,Technical problem 750
+technical_issue,System error 751
+technical_issue,App crash 752
+technical_issue,App not working 753
+technical_issue,Login issue 754
+technical_issue,Payment failed 755
+technical_issue,Website crashing 756
+technical_issue,App slow 757
+technical_issue,Technical problem 758
+technical_issue,System error 759
+technical_issue,App crash 760
+technical_issue,App not working 761
+technical_issue,Login issue 762
+technical_issue,Payment failed 763
+technical_issue,Website crashing 764
+technical_issue,App slow 765
+technical_issue,Technical problem 766
+technical_issue,System error 767
+technical_issue,App crash 768
+technical_issue,App not working 769
+technical_issue,Login issue 770
+technical_issue,Payment failed 771
+technical_issue,Website crashing 772
+technical_issue,App slow 773
+technical_issue,Technical problem 774
+technical_issue,System error 775
+technical_issue,App crash 776
+technical_issue,App not working 777
+technical_issue,Login issue 778
+technical_issue,Payment failed 779
+technical_issue,Website crashing 780
+technical_issue,App slow 781
+technical_issue,Technical problem 782
+technical_issue,System error 783
+technical_issue,App crash 784
+technical_issue,App not working 785
+technical_issue,Login issue 786
+technical_issue,Payment failed 787
+technical_issue,Website crashing 788
+technical_issue,App slow 789
+technical_issue,Technical problem 790
+technical_issue,System error 791
+technical_issue,App crash 792
+technical_issue,App not working 793
+technical_issue,Login issue 794
+technical_issue,Payment failed 795
+technical_issue,Website crashing 796
+technical_issue,App slow 797
+technical_issue,Technical problem 798
+technical_issue,System error 799
+technical_issue,App crash 800
+technical_issue,App not working 801
+technical_issue,Login issue 802
+technical_issue,Payment failed 803
+technical_issue,Website crashing 804
+technical_issue,App slow 805
+technical_issue,Technical problem 806
+technical_issue,System error 807
+technical_issue,App crash 808
+technical_issue,App not working 809
+technical_issue,Login issue 810
+technical_issue,Payment failed 811
+technical_issue,Website crashing 812
+technical_issue,App slow 813
+technical_issue,Technical problem 814
+technical_issue,System error 815
+technical_issue,App crash 816
+technical_issue,App not working 817
+technical_issue,Login issue 818
+technical_issue,Payment failed 819
+technical_issue,Website crashing 820
+technical_issue,App slow 821
+technical_issue,Technical problem 822
+technical_issue,System error 823
+technical_issue,App crash 824
+technical_issue,App not working 825
+technical_issue,Login issue 826
+technical_issue,Payment failed 827
+technical_issue,Website crashing 828
+technical_issue,App slow 829
+technical_issue,Technical problem 830
+technical_issue,System error 831
+technical_issue,App crash 832
+technical_issue,App not working 833
+technical_issue,Login issue 834
+technical_issue,Payment failed 835
+technical_issue,Website crashing 836
+technical_issue,App slow 837
+technical_issue,Technical problem 838
+technical_issue,System error 839
+technical_issue,App crash 840
+technical_issue,App not working 841
+technical_issue,Login issue 842
+technical_issue,Payment failed 843
+technical_issue,Website crashing 844
+technical_issue,App slow 845
+technical_issue,Technical problem 846
+technical_issue,System error 847
+technical_issue,App crash 848
+technical_issue,App not working 849
+technical_issue,Login issue 850
+technical_issue,Payment failed 851
+technical_issue,Website crashing 852
+technical_issue,App slow 853
+technical_issue,Technical problem 854
+technical_issue,System error 855
+technical_issue,App crash 856
+technical_issue,App not working 857
+technical_issue,Login issue 858
+technical_issue,Payment failed 859
+technical_issue,Website crashing 860
+technical_issue,App slow 861
+technical_issue,Technical problem 862
+technical_issue,System error 863
+technical_issue,App crash 864
+technical_issue,App not working 865
+technical_issue,Login issue 866
+technical_issue,Payment failed 867
+technical_issue,Website crashing 868
+technical_issue,App slow 869
+technical_issue,Technical problem 870
+technical_issue,System error 871
+technical_issue,App crash 872
+technical_issue,App not working 873
+technical_issue,Login issue 874
+technical_issue,Payment failed 875
+technical_issue,Website crashing 876
+technical_issue,App slow 877
+technical_issue,Technical problem 878
+technical_issue,System error 879
+technical_issue,App crash 880
+technical_issue,App not working 881
+technical_issue,Login issue 882
+technical_issue,Payment failed 883
+technical_issue,Website crashing 884
+technical_issue,App slow 885
+technical_issue,Technical problem 886
+technical_issue,System error 887
+technical_issue,App crash 888
+technical_issue,App not working 889
+technical_issue,Login issue 890
+technical_issue,Payment failed 891
+technical_issue,Website crashing 892
+technical_issue,App slow 893
+technical_issue,Technical problem 894
+technical_issue,System error 895
+technical_issue,App crash 896
+technical_issue,App not working 897
+technical_issue,Login issue 898
+technical_issue,Payment failed 899
+technical_issue,Website crashing 900
+technical_issue,App slow 901
+technical_issue,Technical problem 902
+technical_issue,System error 903
+technical_issue,App crash 904
+technical_issue,App not working 905
+technical_issue,Login issue 906
+technical_issue,Payment failed 907
+technical_issue,Website crashing 908
+technical_issue,App slow 909
+technical_issue,Technical problem 910
+technical_issue,System error 911
+technical_issue,App crash 912
+technical_issue,App not working 913
+technical_issue,Login issue 914
+technical_issue,Payment failed 915
+technical_issue,Website crashing 916
+technical_issue,App slow 917
+technical_issue,Technical problem 918
+technical_issue,System error 919
+technical_issue,App crash 920
+technical_issue,App not working 921
+technical_issue,Login issue 922
+technical_issue,Payment failed 923
+technical_issue,Website crashing 924
+technical_issue,App slow 925
+technical_issue,Technical problem 926
+technical_issue,System error 927
+technical_issue,App crash 928
+technical_issue,App not working 929
+technical_issue,Login issue 930
+technical_issue,Payment failed 931
+technical_issue,Website crashing 932
+technical_issue,App slow 933
+technical_issue,Technical problem 934
+technical_issue,System error 935
+technical_issue,App crash 936
+technical_issue,App not working 937
+technical_issue,Login issue 938
+technical_issue,Payment failed 939
+technical_issue,Website crashing 940
+technical_issue,App slow 941
+technical_issue,Technical problem 942
+technical_issue,System error 943
+technical_issue,App crash 944
+technical_issue,App not working 945
+technical_issue,Login issue 946
+technical_issue,Payment failed 947
+technical_issue,Website crashing 948
+technical_issue,App slow 949
+technical_issue,Technical problem 950
+technical_issue,System error 951
+technical_issue,App crash 952
+technical_issue,App not working 953
+technical_issue,Login issue 954
+technical_issue,Payment failed 955
+technical_issue,Website crashing 956
+technical_issue,App slow 957
+technical_issue,Technical problem 958
+technical_issue,System error 959
+technical_issue,App crash 960
+technical_issue,App not working 961
+technical_issue,Login issue 962
+technical_issue,Payment failed 963
+technical_issue,Website crashing 964
+technical_issue,App slow 965
+technical_issue,Technical problem 966
+technical_issue,System error 967
+technical_issue,App crash 968
+technical_issue,App not working 969
+technical_issue,Login issue 970
+technical_issue,Payment failed 971
+technical_issue,Website crashing 972
+technical_issue,App slow 973
+technical_issue,Technical problem 974
+technical_issue,System error 975
+technical_issue,App crash 976
+technical_issue,App not working 977
+technical_issue,Login issue 978
+technical_issue,Payment failed 979
+technical_issue,Website crashing 980
+technical_issue,App slow 981
+technical_issue,Technical problem 982
+technical_issue,System error 983
+technical_issue,App crash 984
+technical_issue,App not working 985
+technical_issue,Login issue 986
+technical_issue,Payment failed 987
+technical_issue,Website crashing 988
+technical_issue,App slow 989
+technical_issue,Technical problem 990
+technical_issue,System error 991
+technical_issue,App crash 992
+technical_issue,App not working 993
+technical_issue,Login issue 994
+technical_issue,Payment failed 995
+technical_issue,Website crashing 996
+technical_issue,App slow 997
+technical_issue,Technical problem 998
+technical_issue,System error 999
+technical_issue,App crash 1000
+confirmation_yes,Yes
+confirmation_yes,Yeah
+confirmation_yes,Yup
+confirmation_yes,Yesss
+confirmation_yes,Haan
+confirmation_yes,Haa
+confirmation_yes,Hanji
+confirmation_yes,Ji haan
+confirmation_yes,Bilkul haan
+confirmation_yes,Obviously yes
+confirmation_yes,Yes sure
+confirmation_yes,Yes absolutely
+confirmation_yes,Yes of course
+confirmation_yes,Yes that works
+confirmation_yes,Yes I agree
+confirmation_yes,Haan bilkul
+confirmation_yes,Haan ji zaroor
+confirmation_yes,Yes no problem
+confirmation_yes,Sure why not
+confirmation_yes,Definitely yes
+confirmation_yes,Absolutely yes
+confirmation_yes,100 percent yes
+confirmation_yes,Without a doubt yes
+confirmation_yes,Pakka haan
+confirmation_yes,Bilkul pakka
+confirmation_yes,Yes confirmed
+confirmation_yes,Count me in
+confirmation_yes,Yes final
+confirmation_yes,Yeah bro
+confirmation_yes,Yep bro
+confirmation_yes,Haan yaar
+confirmation_yes,Haan bhai
+confirmation_yes,Yes dude
+confirmation_yes,Sure man
+confirmation_yes,Haan re
+confirmation_yes,Yes boss
+confirmation_yes,Yes baby
+confirmation_yes,Haan jaan
+confirmation_yes,Yes my love
+confirmation_yes,Always yes for you
+confirmation_yes,Tum kehte ho toh haan
+confirmation_yes,Sirf tumhare liye haan
+confirmation_yes,Umm yes
+confirmation_yes,I think yes
+confirmation_yes,Okay yes
+confirmation_yes,Haan shayad
+confirmation_yes,Yes I guess
+confirmation_yes,Yes yes yes
+confirmation_yes,Haan haan haan
+confirmation_yes,Double yes
+confirmation_yes,Triple yes
+confirmation_yes,Yes approved
+confirmation_yes,Yes acknowledged
+confirmation_yes,Yes noted
+confirmation_yes,Yes please proceed
+confirmation_yes,Yes confirmed successfully
+confirmation_yes,Sure thing
+confirmation_yes,Yes let's continue
+confirmation_yes,Arre haan
+confirmation_yes,Haan ji haan
+confirmation_yes,Ekdum haan
+confirmation_yes,Full haan
+confirmation_yes,Tension mat lo haan
+confirmation_yes,Ok
+confirmation_yes,Okay
+confirmation_yes,Done
+confirmation_yes,Fine
+confirmation_yes,Yes done
+confirmation_yes,Yes go ahead
+confirmation_yes,Yes please do it
+confirmation_yes,Yes continue
+confirmation_yes,Yes I am okay with this
+confirmation_yes,Haan theek hai
+confirmation_yes,Haan chalega
+confirmation_yes,Yes that is fine
+confirmation_yes,Yes sounds good
+confirmation_yes,Yes proceed
+confirmation_no,No
+confirmation_no,Nope
+confirmation_no,Nah
+confirmation_no,Nahi
+confirmation_no,Na
+confirmation_no,Not really
+confirmation_no,No thanks
+confirmation_no,No thank you
+confirmation_no,I don't want to
+confirmation_no,I do not agree
+confirmation_no,I disagree
+confirmation_no,No I don't agree
+confirmation_no,No this won't work
+confirmation_no,No that won't work
+confirmation_no,No not possible
+confirmation_no,No I am not interested
+confirmation_no,Not interested
+confirmation_no,No cancel it
+confirmation_no,Please cancel
+confirmation_no,Do not proceed
+confirmation_no,Stop this
+confirmation_no,No stop
+confirmation_no,Don't do it
+confirmation_no,Don't proceed
+confirmation_no,No go back
+confirmation_no,No go ahead nahi
+confirmation_no,No leave it
+confirmation_no,No forget it
+confirmation_no,No drop it
+confirmation_no,No please don't
+confirmation_no,I am saying no
+confirmation_no,It's a no
+confirmation_no,Hard no
+confirmation_no,Big no
+confirmation_no,No from my side
+confirmation_no,No at all
+confirmation_no,Absolutely no
+confirmation_no,Definitely no
+confirmation_no,100 percent no
+confirmation_no,Without a doubt no
+confirmation_no,Never
+confirmation_no,No never
+confirmation_no,Not now no
+confirmation_no,No right now
+confirmation_no,No this time
+confirmation_no,Not this time
+confirmation_no,No later
+confirmation_no,No for now
+confirmation_no,Nahi
+confirmation_no,Nahi bilkul
+confirmation_no,Bilkul nahi
+confirmation_no,Nahi chahiye
+confirmation_no,Nahi karna
+confirmation_no,Nahi hoga
+confirmation_no,Nahi possible
+confirmation_no,Nahi chalega
+confirmation_no,Nahi theek hai
+confirmation_no,Nahi yaar
+confirmation_no,Nahi bhai
+confirmation_no,Nahi re
+confirmation_no,Arre nahi
+confirmation_no,Na bhai
+confirmation_no,Na yaar
+confirmation_no,No bro
+confirmation_no,No dude
+confirmation_no,No man
+confirmation_no,No boss
+confirmation_no,No baby
+confirmation_no,Sorry no
+confirmation_no,Sadly no
+confirmation_no,Unfortunately no
+confirmation_no,I am not okay with this
+confirmation_no,This is not fine
+confirmation_no,No I am not okay
+confirmation_no,Please don't do this
+confirmation_no,Please stop this
+confirmation_no,No cancel my request
+confirmation_no,No cancel it please
+confirmation_no,No do not continue
+confirmation_no,No don't continue
+confirmation_no,No please stop
+confirmation_no,No end it
+confirmation_no,No close this
+confirmation_no,No I refuse
+confirmation_no,I refuse
+confirmation_no,No I deny
+confirmation_no,Deny it

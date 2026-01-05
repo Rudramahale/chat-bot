@@ -5,10 +5,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const themeToggle = document.getElementById('theme-toggle');
 
     // Generate a simple session ID
-    const userId = "user_" + Math.random().toString(36).substr(2, 9);
+    const sessionId = Math.floor(Math.random() * 1000000).toString();
 
     // API Endpoint
-    const API_URL = "https://chat-bot-final-57qr.onrender.com/chat";
+    const API_URL = "http://127.0.0.1:8000/chat";
 
     function appendMessage(text, isUser = false) {
         const messageDiv = document.createElement('div');
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({
-                    user_id: userId,
+                    session_id: sessionId,
                     message: text
                 })
             });
