@@ -6,8 +6,10 @@ def create_session(session_id:str,intent:str,mes:str):
     session[session_id]={
         "intent":intent,
         "status":"idle",
+        "data":None,
         "updated_at":datetime.now(),
-        "message":mes
+        "message":mes,
+        "order_id":None
     }
     return session[session_id]
 
